@@ -6,7 +6,7 @@ The cave contains two openings, the *Oberer-* and *Unterer Einsteig*, respective
 Along the southern prt of the cave, several metres of congelation ice can be readily seen.
 
 
-Some more data here.
+Some more data here. Let us see whether any of this works.
 Layered firn-derived ice is well exposed along the northern parts of the touristic cave trail, in particular near the deepest ice-bearing section of the cave (*Tiefster Punkt*).
 These parts were sampled in detail by @spotl2014hundalm, retrieving 19 individual dates.  
 The ice section situated in the northern sector of the cave [Figure 5, @spotl2014hundalm] has been resampled since, with 5 additional radiocarbon dates helping construct a new age-depth model.
