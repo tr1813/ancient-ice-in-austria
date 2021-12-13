@@ -70,4 +70,4 @@ jobs:
         git fetch origin main
         
     - name: push code to main
-      run: git push origin HEAD:master
+      run: git push origin HEAD:main
