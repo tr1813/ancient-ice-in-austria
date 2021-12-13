@@ -19,11 +19,10 @@ jobs:
     
 
     steps:
-    - uses: |
-        actions/checkout@v2
-        docker://pandoc/core:2.9
-        with:
-          args: "--help" # gets appended to pandoc command
+    - uses: actions/checkout@v2
+    - uses: docker://pandoc/core:2.9
+      with:
+        args: "--help" # gets appended to pandoc command
     
     - name: Run apt update
       run: sudo apt update  
