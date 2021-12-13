@@ -1,4 +1,4 @@
-# Bärenloch Eishöhle
+[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
 
 The main entrance of Bärenloch Eishöhle (cadastral code: 1742/54, hereafter Bärenloch), opens at an elevation of 1518 m a.s.l. at the southwestern end of the Bärenloch, with a commanding view over the Gsoll valley. 
 The cave is developed in the Grafensteig limestone of early Triassic age [@bryda2010eisenerz101], which locally dips gently to the north. 
