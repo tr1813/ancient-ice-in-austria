@@ -10,6 +10,8 @@ _Location of the cave sites under study_
 
 &shy;
 
+## Site selection
+
 More than 1200 ice-bearing caves are recorded in the Austrian cave cadaster, owing to the large limestone plateaus in the North Calcareous Alps, where a majority of the caves are situated at elevations ranging 1600-2100 m [@spoetlwimmer2018icecaves]. 
 
 Potential cave study sites were screened for the presence of perennial underground ice deposits, disregarding snow pits or dolines of relatively small dimensions (< 20 m).
@@ -42,5 +44,29 @@ A short description of the location and specific geometry of each of these study
 _Simplified cave profiles_
 
 &shy;
+
+
+## Wood sampling
+
+A summary of the wood samples taken in each cave, and the dates derived. 
+
+_Summary of the number of samples taken at each site._
+
+&shy;
+
+|cave|section|number of samples $^{14}$C dated (modern) |number of samples used in sequence|
+|---:|---|---|---|
+|Hochschneid Eishöhle|*Iglu*|15 (0)|11|
+|Großer Naturschacht|*Rutschbahn*|9 (2)|5|
+||*Eisdom*|6 (4)|2|
+|Eisgruben Eishöhle|*Steinlawinenschacht*|16|13|
+||*Eiszungendom*|4|3|
+|Guffert Eisschacht|*top*|13 (0)|10|
+||*bottom*|7 (0)|7|
+|Bärenloch Eishöhle|*top*|8|4|
+||*middle*|3|3|
+||*bottom*|8|7|
+|Kraterschacht||5 (1) |3|
+|Tremml||2 |2|
 
 ## References
