@@ -37,8 +37,6 @@ jobs:
           ./descriptions/hundalm.md
       
 
-    - name: Build pages
-      run: make -f ./scripts/make.make caves
 
     - name: Run check
       run: make check
