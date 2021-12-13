@@ -63,11 +63,11 @@ jobs:
         git config --global user.name "${{ secrets.EMAIL }}"
         git commit -m "Updating Files"
         
-    - name: fetch from master
+    - name: fetch from main
       shell: bash
       run: |
         git remote set-url origin "${{ secrets.REMOTEURL  }}"
-        git fetch origin master
+        git fetch origin main
         
-    - name: push code to master
+    - name: push code to main
       run: git push origin HEAD:master
