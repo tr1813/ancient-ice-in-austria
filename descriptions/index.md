@@ -19,3 +19,11 @@ _Location of the cave sites under study_
 
 [Guffert Eisschacht](https://tr1813.github.io/ancient-ice-in-austria/descriptions/guffert.html)
 
+[Kraterschacht](https://tr1813.github.io/ancient-ice-in-austria/descriptions/hochschneid.html)
+
+[Hundalm Tropfstein- und Eishöhle](https://tr1813.github.io/ancient-ice-in-austria/descriptions/hundalm.html)
+
+[Tremml-schacht](https://tr1813.github.io/ancient-ice-in-austria/descriptions/tremml.html)
+
+[Großer Naturschacht](https://tr1813.github.io/ancient-ice-in-austria/descriptions/grosser_naturschacht.html)
+

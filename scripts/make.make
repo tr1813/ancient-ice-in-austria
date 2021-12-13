@@ -1,6 +1,6 @@
 all: html
 
-caves: hochschneid guffert eisgruben baerenloch index
+caves: hochschneid guffert eisgruben baerenloch kraterschacht grosser hundalm tremml index
 
 html: ../descriptions/*.md
 	pandoc --toc --citeproc --top-level-division=section ../descriptions/*.md -o ../descriptions/descriptions.html \
@@ -37,3 +37,28 @@ guffert: ../descriptions/guffert.md
 	--bibliography ../bibliography/tanguy_bib.bib \
 	--csl=https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl \
 	 -s --metadata title="Guffert Eisschacht"
+
+grosser: ../descriptions/grosser-naturschacht.md
+	pandoc --toc --citeproc --top-level-division=section ../descriptions/grosser-naturschacht.md -o ../descriptions/grosser-naturschacht.html \
+	--bibliography ../bibliography/tanguy_bib.bib \
+	--csl=https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl \
+	 -s --metadata title="Großer Naturschacht"
+
+kraterschacht: ../descriptions/kraterschacht.md
+	pandoc --toc --citeproc --top-level-division=section ../descriptions/kraterschacht.md -o ../descriptions/kraterschacht.html \
+	--bibliography ../bibliography/tanguy_bib.bib \
+	--csl=https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl \
+	 -s --metadata title="Kraterschacht"
+
+
+hundalm: ../descriptions/hundalm.md
+	pandoc --toc --citeproc --top-level-division=section ../descriptions/hundalm.md -o ../descriptions/hundalm.html \
+	--bibliography ../bibliography/tanguy_bib.bib \
+	--csl=https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl \
+	 -s --metadata title="Hundalm Tropfstein- und Eishöhle"
+
+tremml: ../descriptions/tremml.md
+	pandoc --toc --citeproc --top-level-division=section ../descriptions/tremml.md -o ../descriptions/tremml.html \
+	--bibliography ../bibliography/tanguy_bib.bib \
+	--csl=https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl \
+	 -s --metadata title="Tremmlschacht"
