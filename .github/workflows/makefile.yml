@@ -47,9 +47,7 @@ jobs:
           prerelease: false
           files: ./descriptions/*.html
           
-    - name: configuration
-      
-        
+
     - name: check for changes
       run: git status
     - name: stage changed files
