@@ -16,18 +16,17 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
+    
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: |
+        actions/checkout@v2
+        docker://pandoc/core:2.9
+        with:
+          args: "--help" # gets appended to pandoc command
     
     - name: Run apt update
-      run: sudo apt update
-      
-    - name: Install Pandoc
-      run: |
-        wget https://hackage.haskell.org/package/pandoc-1.17.0.3/pandoc-1.17.0.3.tar.gz
-        tar xvzf pandoc-1.17.0.3.tar.gz
-        cd pandoc-1.17.0.3  
+      run: sudo apt update  
     
     - name: Build pages
       run: make -f ./scripts/make.make caves
