@@ -25,3 +25,7 @@ This section is located at the foot of a 20 m pit called _Eisschacht_ and covers
 This section is marked by a prominent transition between two ice zones. 
 The bottom section of ice is made up of organic rich layers on average 1-2 cm thick. 
 Above the irregular transition, ice is organised in thick decimetre sized layers with far fewer organic inclusions.
+
+[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
+
+## References

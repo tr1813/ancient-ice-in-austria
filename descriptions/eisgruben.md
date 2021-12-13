@@ -18,3 +18,7 @@ Firn-derived layers are more common in the vicinity of the wood-rich horizons, w
 Three of the prominent wood rich layers occur at major angular unconformities in the ice stratigraphy (Figure 7b).
 By rappelling down the _Steinlawinenschacht_, one sequence could be sampled to the right hand-side (SW) of the outcrop. 
 Due to the moderate dip of the layers, a second diagonal transect could be made on the left hand-side (NE) of the outcrop. 
+
+[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
+
+## References

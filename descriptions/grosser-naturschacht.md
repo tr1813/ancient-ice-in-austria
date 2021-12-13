@@ -1,4 +1,4 @@
-# Großer Naturschacht
+[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
 
 Großer Naturschacht (cadastral code: 3741/8, hereafter Naturschacht) is located at the western edge of the Villacher Alpe, close to the Dobratsch summit (2166 m a.s.l.), in a shallow valley called Bärental.
 The single entrance of Naturschacht opens at an elevation of 1985 m a.s.l. [@jenatschke1968dobratsch].
@@ -17,3 +17,6 @@ The ice of this section exhibits decimetre-scale layers, markedly darker than ab
 There, wood fragments are rare, and laterally continuous wood-rich layers are entirely absent.
 
 
+[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
+
+## References

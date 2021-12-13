@@ -1,6 +1,4 @@
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
-# Hundalm Tropfstein- und Eishöhle
+[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
 
 Hundalm Tropfstein- und Eishöhle, hereafter Hundalm, is a cave located in the Brandenberg Alps of Tyrol, opening at an elevation of 1520 m a.s.l.,  within a spruce and larch forest [@spotl2014hundalm].
 It is 55 m deep overall, with a deep ice-free gallery separated from the main body of the ice cave by an air lock.
@@ -11,3 +9,6 @@ The ice section situated in the northern sector of the cave [Figure 5, @spotl201
 This 12 m wide section contrasts with the more southerly parts of the ice body by its consistent layering and normal i.e., upwards younging, stratigraphic progression. 
 
 
+[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
+
+## References
