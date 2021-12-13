@@ -24,7 +24,7 @@ jobs:
       run: sudo apt update 
       
     - name: Compile Hundalm
-      uses: docker://pandoc/core 
+      uses: docker://pandoc/core:2.9 
       with:
         args: >-  # allows you to break string into multiple line 
           --output=./descriptions/hundalm.html
