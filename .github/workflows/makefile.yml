@@ -24,13 +24,12 @@ jobs:
       run: sudo apt update 
       
     - name: Compile Hundalm
-      uses: docker://pandoc/core:2.9
+      uses: docker://pandoc/core 
       with:
         args: >-  # allows you to break string into multiple line 
           --output=./descriptions/hundalm.html
           --toc
-          -s
-          --citeproc
+          -s 
           --top-level-division=section
           --bibliography=./bibliography/tanguy_bib.bib
           --csl="https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl"
