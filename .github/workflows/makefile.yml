@@ -23,8 +23,8 @@ jobs:
     - name: Run apt update
       run: sudo apt update
       
-    - name: Install Pandoc
-      run: sudo dpkg -i $DEB   
+    - name: Install Haskell platform
+      run:  apt-get install haskell-platform   
     
     - name: Build pages
       run: make -f ./scripts/make.make caves
