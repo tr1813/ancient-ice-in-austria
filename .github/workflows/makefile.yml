@@ -19,9 +19,7 @@ jobs:
     
 
     steps:
-      env: |
-        EMAIL: ${{ secrets.EMAIL }}
-        USERNAME: ${{ secrets.USERNAME }}
+      
 
     - uses: actions/checkout@v2
       with: 
@@ -57,6 +55,9 @@ jobs:
     - name: stage changed files
       run: git add .
     - name: commit changed files
+      env: |
+        EMAIL: ${{ secrets.EMAIL }}
+        USERNAME: ${{ secrets.USERNAME }}
       run: |
         git config --global user.email "$EMAIL"
         git config --global user.name "$USERNAME"
