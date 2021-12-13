@@ -20,13 +20,23 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - uses: docker://pandoc/core:2.9
-      with:
-        args: "--help" # gets appended to pandoc command
-    
     - name: Run apt update
-      run: sudo apt update  
-    
+      run: sudo apt update 
+      
+    - name: Compile Hundalm
+      uses: docker://pandoc/core:2.9
+      with: >-  # allows you to break string into multiple line 
+        -o=./descriptions/hundalm.html
+        --toc
+        -s
+        --citeproc
+        --top-level-division=section
+        --bibliography=./bibliography/tanguy_bib.bib
+        --csl="https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl"
+        --metadata title="Hundalm Tropfstein- und Eishöhle"
+        ./descriptions/hundalm.md
+      
+
     - name: Build pages
       run: make -f ./scripts/make.make caves
 
