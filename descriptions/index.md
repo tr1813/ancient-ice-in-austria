@@ -21,14 +21,14 @@ In some cases, the ice deposits and their woody content were striking enough, th
 
 In all, eight objects were selected: 
 
-	1. [Guffert Eisschacht (Tyrol)](https://tr1813.github.io/ancient-ice-in-austria/descriptions/guffert.html)
-	2. [Bärenloch Eishöhle (Styria)](https://tr1813.github.io/ancient-ice-in-austria/descriptions/baerenloch.html)
-	3. [Eisgruben Eishöhle (Upper Austria)](https://tr1813.github.io/ancient-ice-in-austria/descriptions/eisgruben.html)
-	4. [Hochschneid Eishöhle (Upper Austria)](https://tr1813.github.io/ancient-ice-in-austria/descriptions/hochschneid.html)
-	5. [Großer Naturschacht (Carinthia)](https://tr1813.github.io/ancient-ice-in-austria/descriptions/grosser-naturschacht.html)
-	6. [Hundalm Tropfstein-und Eishöhle (Tyrol)](https://tr1813.github.io/ancient-ice-in-austria/descriptions/hundalm.html)
-	7. [Kraterschacht (Styria)](https://tr1813.github.io/ancient-ice-in-austria/descriptions/kraterschacht.html)
-	8. [Tremml-schacht (Styria)](https://tr1813.github.io/ancient-ice-in-austria/descriptions/tremml.html)
+1. [Guffert Eisschacht (Tyrol)](https://tr1813.github.io/ancient-ice-in-austria/descriptions/guffert.html)
+2. [Bärenloch Eishöhle (Styria)](https://tr1813.github.io/ancient-ice-in-austria/descriptions/baerenloch.html)
+3. [Eisgruben Eishöhle (Upper Austria)](https://tr1813.github.io/ancient-ice-in-austria/descriptions/eisgruben.html)
+4. [Hochschneid Eishöhle (Upper Austria)](https://tr1813.github.io/ancient-ice-in-austria/descriptions/hochschneid.html)
+5. [Großer Naturschacht (Carinthia)](https://tr1813.github.io/ancient-ice-in-austria/descriptions/grosser-naturschacht.html)
+6. [Hundalm Tropfstein-und Eishöhle (Tyrol)](https://tr1813.github.io/ancient-ice-in-austria/descriptions/hundalm.html)
+7. [Kraterschacht (Styria)](https://tr1813.github.io/ancient-ice-in-austria/descriptions/kraterschacht.html)
+8. [Tremml-schacht (Styria)](https://tr1813.github.io/ancient-ice-in-austria/descriptions/tremml.html)
 
 The five caves are found between 1470 m and 2100 m a.s.l. and represent local permafrost phenomena located well below the altitude of their respective 0°C isotherm.
 Their steeply descending geometry the ice bearing part of the presented caves requires speleological rope technique.
