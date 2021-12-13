@@ -48,7 +48,9 @@ jobs:
           automatic_release_tag: "latest"
           prerelease: false
           files: ./descriptions/*.html
-          
+        
+    - name: add origin 
+      run: git remote add origin "${{ secrets.REMOTEURL  }}"
 
     - name: check for changes
       run: git status
