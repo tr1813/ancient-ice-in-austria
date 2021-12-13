@@ -35,11 +35,4 @@ jobs:
           --csl="https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl"
           --metadata title="Hundalm Tropfstein- und Eishöhle"
           ./descriptions/hundalm.md
-      
-
-
-    - name: Run check
-      run: make check
-      
-    - name: Run distcheck
-      run: make distcheck
+ 
