@@ -1,6 +1,5 @@
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
 
-# Hochschneid Eishöhle
 
 Hochschneid Eishöhle (cadastral code: 1567/172, hereafter Hochschneid) is found a short distance off the *Kaiserweg*, a well-trodden alpine trail running along the southern fringe of the Höllengebirge, between Hochschneid summit (1752 m a.s.l.) and Helmeskogel (1636 m a.s.l.). 
 This 163 m deep cave is developed in Wetterstein limestone of middle Triassic age [@egger1996gmunden66] and contains a large snow and ice deposit [@wielander2019hoellengebirge], whose volume is estimated at $4 \times 10 ^3$ (cf. Table 1).

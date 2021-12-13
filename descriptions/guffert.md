@@ -1,4 +1,4 @@
-# Guffert Eisschacht
+[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
 
 Guffert Eisschacht (cadastral code: 1262/9, hereafter Guffert) is located in a shallow valley running NE-SW between the peaks of Guffertspitze to the west and Guffertstein (1963 m a.s.l.) to the east.
 This 41 m deep cave is developed entirely in south dipping Wetterstein limestone [@spoetl2021guffertkarst].
