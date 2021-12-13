@@ -20,6 +20,12 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     
+    - name: Run apt update
+      run: sudo apt update
+      
+    - name: Install Pandoc
+      run: sudo dpkg -i $DEB   
+    
     - name: Build pages
       run: make -f ./scripts/make.make caves
 
