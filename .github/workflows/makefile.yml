@@ -23,8 +23,11 @@ jobs:
     - name: Run apt update
       run: sudo apt update
       
-    - name: Install Haskell platform
-      run:  apt-get install haskell-platform   
+    - name: Install Pandoc
+      run: |
+        wget https://hackage.haskell.org/package/pandoc-1.17.0.3/pandoc-1.17.0.3.tar.gz
+        tar xvzf pandoc-1.17.0.3.tar.gz
+        cd pandoc-1.17.0.3  
     
     - name: Build pages
       run: make -f ./scripts/make.make caves
