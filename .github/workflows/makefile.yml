@@ -1,0 +1,30 @@
+name: Makefile CI
+
+on:
+  push:
+
+    paths:
+ 
+      - scripts/**
+      - .github/workflows/**
+      
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Build pages
+      run: make -f ./scripts/make.make caves
+
+    - name: Run check
+      run: make check
+      
+    - name: Run distcheck
+      run: make distcheck
