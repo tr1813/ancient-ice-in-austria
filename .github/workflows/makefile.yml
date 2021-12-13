@@ -26,7 +26,7 @@ jobs:
     - name: Compile Hundalm
       uses: docker://pandoc/core:2.9
       with: >-  # allows you to break string into multiple line 
-        -o=./descriptions/hundalm.html
+        -o ./descriptions/hundalm.html
         --toc
         -s
         --citeproc
