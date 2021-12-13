@@ -55,6 +55,7 @@ jobs:
     - name: stage changed files
       run: git add .
     - name: commit changed files
+      shell: bash
       env: |
         EMAIL: ${{ secrets.EMAIL }}
         USERNAME: ${{ secrets.USERNAME }}
