@@ -35,4 +35,12 @@ jobs:
           --csl="https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl"
           --metadata title="Hundalm Tropfstein- und Eishöhle"
           ./descriptions/hundalm.md
+    - name: Upload Files
+      uses: "marvinpinto/action-automatic-releases@latest"
+      with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          title: Build ${{ github.run_number }}
+          automatic_release_tag: "latest"
+          prerelease: false
+          files: ./descriptions/*.html
  
