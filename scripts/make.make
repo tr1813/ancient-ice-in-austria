@@ -26,9 +26,9 @@ eisgruben: ../descriptions/eisgruben.md
 	--csl=https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl \
 	 -s --metadata title="Eisgruben Eishöhle"
 
-hochschneid: ../descriptions/hochschneid.md
-	pandoc --toc --citeproc --top-level-division=section ../descriptions/hochschneid.md -o ../descriptions/hochschneid.html \
-	--bibliography ../bibliography/tanguy_bib.bib \
+hochschneid: ./descriptions/hochschneid.md
+	pandoc --toc --citeproc --top-level-division=section ./descriptions/hochschneid.md -o ./descriptions/hochschneid.html \
+	--bibliography ./bibliography/tanguy_bib.bib \
 	--csl=https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl \
 	 -s --metadata title="Hochschneid Eishöhle"
 
