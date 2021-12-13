@@ -10,6 +10,7 @@ _Location of the cave sites under study_
 
 &shy;
 
+## Detailed cave descriptions
 
 [Bärenloch Eishöhle](https://tr1813.github.io/ancient-ice-in-austria/descriptions/baerenloch.html)
 
@@ -25,5 +26,5 @@ _Location of the cave sites under study_
 
 [Tremml-schacht](https://tr1813.github.io/ancient-ice-in-austria/descriptions/tremml.html)
 
-[Großer Naturschacht](https://tr1813.github.io/ancient-ice-in-austria/descriptions/grosser_naturschacht.html)
+[Großer Naturschacht](https://tr1813.github.io/ancient-ice-in-austria/descriptions/grosser-naturschacht.html)
 
