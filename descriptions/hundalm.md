@@ -13,7 +13,7 @@ The ice section situated in the northern sector of the cave [Figure 5, @spotl201
 This 12 m wide section contrasts with the more southerly parts of the ice body by its consistent layering and normal i.e., upwards younging, stratigraphic progression. 
 
 
-
+Make some more changes here.
 
 [Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
 
