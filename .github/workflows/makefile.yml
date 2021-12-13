@@ -47,7 +47,11 @@ jobs:
           prerelease: false
           files: ./descriptions/*.html
           
-
+    - name: configuration
+      run: |
+        git config --global user.email ${{ secrets.EMAIL }}
+        git config --global user.name ${{ secrets.USERNAME }}
+        
     - name: check for changes
       run: git status
     - name: stage changed files
