@@ -65,17 +65,19 @@ _Summary of the number of samples taken at each site._
 
 |cave|section|number of samples $^{14}$C dated (modern) |number of samples used in sequence|
 |---:|---|---|---|
-|Hochschneid Eishöhle|*Iglu*|15 (0)|11|
-|Großer Naturschacht|*Rutschbahn*|9 (2)|5|
+|[Hochschneid Eishöhle](https://tr1813.github.io/ancient-ice-in-austria/descriptions/hochschneid.html)|*Iglu*|15 (0)|11|
+|[Großer Naturschacht](https://tr1813.github.io/ancient-ice-in-austria/descriptions/grosser-naturschacht.html)|*Rutschbahn*|9 (2)|5|
 ||*Eisdom*|6 (4)|2|
-|Eisgruben Eishöhle|*Steinlawinenschacht*|16|13|
+|[Eisgruben Eishöhle](https://tr1813.github.io/ancient-ice-in-austria/descriptions/eisgruben.html)|*Steinlawinenschacht*|16|13|
 ||*Eiszungendom*|4|3|
-|Guffert Eisschacht|*top*|13 (0)|10|
+|[Guffert Eisschacht](https://tr1813.github.io/ancient-ice-in-austria/descriptions/guffert.html)|*top*|13 (0)|10|
 ||*bottom*|7 (0)|7|
-|Bärenloch Eishöhle|*top*|8|4|
+|[Bärenloch Eishöhle](https://tr1813.github.io/ancient-ice-in-austria/descriptions/baerenloch.html)
+|*top*|8|4|
 ||*middle*|3|3|
 ||*bottom*|8|7|
-|Kraterschacht||5 (1) |3|
-|Tremml||2 |2|
+|[Kraterschacht](https://tr1813.github.io/ancient-ice-in-austria/descriptions/kraterschacht.html)||5 (1) |3|
+|[Tremml-schacht](https://tr1813.github.io/ancient-ice-in-austria/descriptions/tremml.html)||2 |2|
+|[Hundalm Tropfstein-und Eishöhle](https://tr1813.github.io/ancient-ice-in-austria/descriptions/hundalm.html)|*northern sector*|9 (1)|7|
 
 ## References
