@@ -3,6 +3,7 @@ html {
 	font-size: 10px;
 	box-sizing: border-box;
 	-webkit-text-size-adjust: 100%
+	margin: auto;
 }
 
 *, :after, :before {
@@ -16,12 +17,13 @@ html {
 
 body {
 	color: #2e3538;
-	margin-left:2em;
-	margin-right:2em;
-	font-size: 1.6rem;
-	line-height: 2;
-	max-width:800px;
-	font-weight: 300
+	margin-left:1em;
+	margin-right:1em;
+	font-size: 1.45rem;
+	line-height: 2rem;
+	max-width:650px;
+	font-weight: 300;
+	vertical-align: middle
 }
 
 @media (max-width:40rem) {
@@ -210,12 +212,12 @@ code:not([class]), code[xx] {
 	border: 1px solid #e3e6e8;
 	padding: 0 1em;
 	color: #454f54;
-	font-size: 1.rem;
-	line-height: 1.5;
+	font-size: 0.95rem;
+	line-height: 1.2;
 	font-family: monospace;
 	border-radius: 2px;
 	text-transform: none;
-	font-weight: 400
+	font-weight: 300
 }
 
 pre:not([class]) code, pre[xx] code {

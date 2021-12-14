@@ -1,5 +1,7 @@
 [Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
 
+### Cave description
+
 Hundalm Tropfstein- und Eishöhle, hereafter Hundalm, is a cave located in the Brandenberg Alps of Tyrol, opening at an elevation of 1520 m a.s.l.,  within a spruce and larch forest [@spotl2014hundalm].
 It is 55 m deep overall, with a deep ice-free gallery separated from the main body of the ice cave by an air lock.
 The cave contains two openings, the *Oberer-* and *Unterer Einsteig*, respectively, which join in the ice bearing chamber called *Eisdom* at a depth of 28 m. 
@@ -19,5 +21,10 @@ _Stratigraphic column at Hundalm_
 changequote(`{{', `}}')
 include({{../descriptions/age_models/Hundalm/hundalm_code.md}})
 
+### Photo gallery
+
+*Here, I'll put some photos of hundalm.*
+
+### References
 
 [Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
