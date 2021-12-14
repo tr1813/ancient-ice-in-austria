@@ -11,6 +11,9 @@ This corresponds to 25-35% volume loss, given the currently known ice volume.
 The currently accessible topmost section of the ice must therefore predate 2002 by several years, if not decades.
 Near the base of the ice shaft, two layers richer in organic matter could be sampled for macro-remains (samples TREM-1 and TREM-2).
 
+changequote(`{{', `}}')
+include({{../descriptions/age_models/Tremml/tremml_code.md}})
+
 [Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
 
 ## References

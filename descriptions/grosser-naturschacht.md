@@ -16,6 +16,8 @@ In the _Weißer Dom_ area, another section of ice stratigraphy can be observed.
 The ice of this section exhibits decimetre-scale layers, markedly darker than above, which has undergone a larger degree of recrystallisation.
 There, wood fragments are rare, and laterally continuous wood-rich layers are entirely absent.
 
+changequote(`{{', `}}')
+include({{../descriptions/age_models/GrosserNaturschacht/grosser_naturschacht_sequence_code.md}})
 
 [Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
 

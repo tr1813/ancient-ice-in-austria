@@ -15,6 +15,8 @@ Faint layering in the macro-fossil poor sections ranges between sub-cm to multi-
 Whilst the layering in the _Iglu_ is near vertical, the examination of the entire ice pit (about 40 m in height), reveals that layer thickness increases upwards, while dip decreases markedly, reaching near horizontal values in the _Hüttenwirtehalle_.
 In the _Iglu_ section, the younging direction is to the left, i.e., from North to South, which agrees with orientation of entrance _a_'s major axis.
 
+changequote(`{{', `}}')
+include({{../descriptions/age_models/Hochschneid/Iglu_sequence_code.md}})
 
 [Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
 

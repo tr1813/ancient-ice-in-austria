@@ -23,6 +23,12 @@ The latter contain one visible patch of cryogenic cave carbonates.
 Laterally continuous macro-remain rich layers dip generally toward the east at an angle ranging between 30-50°. 
 The geometry of the ice body in the upper part of the _Eisschacht_ is heavily influenced by seasonal variations in snow height, which are on the order of $\pm 5$ m. 
 
+
+changequote(`{{', `}}')
+include({{../descriptions/age_models/Guffert/Guffert_b_code.md}})
+
+include({{../descriptions/age_models/Guffert/Guffert_t_code.md}})
+
 [Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
 
 ## References
