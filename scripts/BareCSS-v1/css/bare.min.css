@@ -43,7 +43,7 @@ b, strong {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	margin: 0 0 2rem;
+	margin: 2em 0 2rem;
 	font-weight: 200
 }
 
@@ -207,14 +207,14 @@ code:not([class]), code[xx] {
 	display: inline-block;
 	background: #f4f5f6;
 	border: 1px solid #e3e6e8;
-	padding: 0 .5rem;
+	padding: 0 1em;
 	color: #454f54;
-	font-size: 1.2rem;
-	line-height: 1.8;
+	font-size: 1.rem;
+	line-height: 1.5;
 	font-family: monospace;
 	border-radius: 2px;
 	text-transform: none;
-	font-weight: 300
+	font-weight: 400
 }
 
 pre:not([class]) code, pre[xx] code {
