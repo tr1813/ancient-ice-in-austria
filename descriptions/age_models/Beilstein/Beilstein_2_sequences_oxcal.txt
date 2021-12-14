@@ -1,0 +1,41 @@
+ Plot()
+ {
+  P_Sequence("transect_1", 1, 0.2, U(-2,2))
+  {
+   Boundary('bottom1')
+   {
+    z=780;
+   };
+   R_Date("BSE-C13", 331, 27)
+   {
+    z=375;
+   };
+   Date("SURF", N(AD(2000,10)))
+   {
+    z=0;
+   };
+   Boundary('top1')
+   {
+    z=0;
+   };
+  };
+  P_Sequence("transect_2", 1, 0.2, U(-2,2))
+  {
+   Boundary('bottom2')
+   {
+    z=400;
+   };
+   R_Date("BSE-C08", 355, 26)
+   {
+    z=352;
+   };
+   Date("SURF2",N(AD(2000,10)))
+   {
+    z = 0;
+   };
+   Boundary('top2')
+   {
+    z=0;
+   };
+  };
+ };

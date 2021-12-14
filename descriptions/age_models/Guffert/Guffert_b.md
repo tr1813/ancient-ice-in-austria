@@ -1,0 +1,46 @@
+### OxCal model definition of Guffert bottom sequence
+```
+ Plot()
+ {
+  Outlier_Model("General",T(5),U(0,4),"t");
+  P_Sequence("guffert_b",1,1,U(-2,2))
+  {
+   Boundary("start")
+   {
+    z=0;
+   };
+   R_Date("GE-C1",2261,30)
+   {
+    z=10;
+   };
+   R_Date("GU-6",2178,26)
+   {
+    z=27;
+   };
+   R_Date("GE-C2",1982,28)
+   {
+    z=44;
+   };
+   R_Date("GE-C3",1793,30)
+   {
+    z=70;
+   };
+   R_Date("GU-7",1866,25)
+   {
+    z=80;
+   };
+   R_Date("GE-C4",1693,30)
+   {
+    z=100;
+   };
+   R_Date("GE-C5",1674,30)
+   {
+    z=125;
+   };
+   Boundary("end")
+   {
+    z=140;
+   };
+  };
+ };
+```

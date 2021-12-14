@@ -1,0 +1,3 @@
+work.program="OxCal v4.4.2";
+work.operation="MCMC";
+work.done=35.0; work.passes=1645000; work.ok=100.0; work.convergence=94.4;

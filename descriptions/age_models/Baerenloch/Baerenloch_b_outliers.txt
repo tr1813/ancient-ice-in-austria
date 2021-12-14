@@ -1,0 +1,108 @@
+
+T(5)	-1.14	1.14	-2.65	2.65	
+U(0,4)	3.98986e-17	4	3.98986e-17	4	
+General	
+start	
+BL-C1	-150	-43.5	-195	15	
+BL-C2	-94	8.5	-150	24	
+BL-C3	-44	13	-91.5	62	
+I	
+BL-C4	645.5	666	605.5	758	
+BL-C5	777	888	772	945.5	
+BL-C6	641.5	661.5	605.5	668	
+BL-C7	643.5	661.5	606	669	
+BL-C8	664	772	657	775	
+end	
+U(-2,2)	-2	2	-2	2	
+Baerenloch_b	-2	2	-2	2	
+	
+	
+	
+	
+@General	121	237	-114.5	311.5	
+@	
+@	1.936	2.756	1.664	3.56	
+@Baerenloch_b	-1.41794	-1.17394	-1.41794	-0.84594	
+@start	-303	-71	-676.5	-15.5	
+@BL-C1	-154	-64.5	-335.5	-30	
+@BL-C2	-87	3	-105.5	18	
+@BL-C3	-38	25.5	-83.5	238.5	
+@I	622.5	655.5	541	663.5	
+@BL-C4	643	656.5	609.5	662.5	
+@BL-C5	647	658.5	634	665	
+@BL-C6	648	659	642	664	
+@BL-C7	651.5	662	646.5	667	
+@BL-C8	658	680.5	651	759.5	
+@end	658.5	685	651	774.5	
+@depthModel	-254.5	-64.5	-565.5	-10	
+@depthModel	-211	-58.5	-461	-9.5	
+@depthModel	-174.5	-56.5	-354.5	-4.5	
+@depthModel	-140	-50	-191	-8	
+@depthModel	-129	-43.5	-179	0	
+@depthModel	-121.5	-38	-168.5	1.5	
+@depthModel	-114.5	-32.5	-161.5	4	
+@depthModel	-105.5	-27	-151	5.5	
+@depthModel	-97	-7.5	-141.5	10	
+@depthModel	-91	-1.5	-126	15	
+@depthModel	-55	5.5	-106.5	30.5	
+@depthModel	-55.5	10	-102.5	47.5	
+@depthModel	-53	12.5	-100	58	
+@depthModel	-49.5	15	-99.5	67	
+@depthModel	-46	16.5	-98	80.5	
+@depthModel	-44	20.5	-92	106	
+@depthModel	-39.5	22	-87.5	112.5	
+@depthModel	-40.5	106	-49.5	401	
+@depthModel	-32.5	236	-43.5	511.5	
+@depthModel	-6.5	354	-25.5	577	
+@depthModel	108.5	558	11.5	631.5	
+@depthModel	305	645.5	58	650.5	
+@depthModel	421.5	653	124	657.5	
+@depthModel	540	656	240.5	660.5	
+@depthModel	624.5	655.5	545.5	663.5	
+@depthModel	625.5	655.5	550.5	663.5	
+@depthModel	626.5	656	555.5	663.5	
+@depthModel	628.5	655.5	560.5	663.5	
+@depthModel	630.5	655.5	565.5	663.5	
+@depthModel	631	656	570	663.5	
+@depthModel	632	656	575	663.5	
+@depthModel	634	656	580	663.5	
+@depthModel	635.5	656	585	663.5	
+@depthModel	636	656.5	590	663.5	
+@depthModel	637	656.5	595	663	
+@depthModel	639	656	599.5	663	
+@depthModel	640.5	656	604	662.5	
+@depthModel	641	657	607	662.5	
+@depthModel	641.5	657	608.5	662.5	
+@depthModel	643.5	656.5	611.5	663	
+@depthModel	644.5	656.5	615	663	
+@depthModel	645	657	620	663.5	
+@depthModel	645	657.5	623	664	
+@depthModel	645.5	658	625.5	664.5	
+@depthModel	646	658.5	628.5	664.5	
+@depthModel	646.5	658.5	631	664.5	
+@depthModel	647.5	658.5	638	665	
+@depthModel	648	659.5	642	664.5	
+@depthModel	648.5	659.5	642	665	
+@depthModel	649	660	643	665	
+@depthModel	649.5	660	643.5	665.5	
+@depthModel	650.5	660.5	645	665.5	
+@depthModel	650.5	661	645.5	666.5	
+@depthModel	651	661.5	646	667	
+@depthModel	652	663	646	670.5	
+@depthModel	652.5	664	646	674	
+@depthModel	652.5	665	646	678	
+@depthModel	653	666	646.5	682	
+@depthModel	653.5	667	646.5	686	
+@depthModel	654.5	668	647	690	
+@depthModel	654.5	669.5	647	694.5	
+@depthModel	655	670.5	647.5	699	
+@depthModel	655.5	672	647.5	704	
+@depthModel	655.5	674.5	648	709.5	
+@depthModel	655.5	675.5	648.5	725.5	
+@depthModel	656	677	649.5	744	
+@depthModel	656.5	678	650.5	750.5	
+@depthModel	657	679	650.5	755.5	
+@depthModel	657.5	679.5	651	757.5	
+@depthModel	658.5	681.5	651	767	
+@depthModel	658.5	683	651	768.5	
+@depthModel	658.5	684	651	772	

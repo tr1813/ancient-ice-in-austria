@@ -1,0 +1,11 @@
+Options()
+ {
+  Resolution=0.2;
+  Curve="bomb13nh1.14c";
+ };
+ Plot()
+ { R_F14C("K3", 1.0004, 0.0039)
+   {
+    z=400;
+   };
+ };

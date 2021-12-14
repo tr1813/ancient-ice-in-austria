@@ -6,15 +6,18 @@ The cave contains two openings, the *Oberer-* and *Unterer Einsteig*, respective
 Along the southern prt of the cave, several metres of congelation ice can be readily seen.
 
 
-Some more data here. Let us see whether any of this works.
 Layered firn-derived ice is well exposed along the northern parts of the touristic cave trail, in particular near the deepest ice-bearing section of the cave (*Tiefster Punkt*).
 These parts were sampled in detail by @spotl2014hundalm, retrieving 19 individual dates.  
 The ice section situated in the northern sector of the cave [Figure 5, @spotl2014hundalm] has been resampled since, with 5 additional radiocarbon dates helping construct a new age-depth model.
 This 12 m wide section contrasts with the more southerly parts of the ice body by its consistent layering and normal i.e., upwards younging, stratigraphic progression. 
 
+![](https://tr1813.github.io/ancient-ice-in-austria/figures/hundalm-stratigraphy.png)
 
-Make some more changes here.
+
+_Stratigraphic column at Hundalm_
+
+changequote(`{{', `}}')
+include({{../descriptions/age_models/Hundalm/hundalm_code.md}})
+
 
 [Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
-
-## References

@@ -1,0 +1,33 @@
+### OxCal model definition of Bärenloch midlle sequence with outliers
+```
+ Plot()
+ {
+  Outlier_Model("General",T(5),U(0,4),"t");
+  P_Sequence("Baerenloch_m",1,0.2,U(-2,2))
+  {
+   Boundary('start');
+   {
+    z=370;
+   };
+   R_Date("BL-C10",906,20)
+   {
+    z=400;
+    Outlier(0.05);
+   };
+   R_Date("BL-C11",781,20)
+   {
+    z=575;
+    Outlier(0.05);
+   };
+   R_Date("BL-C12",310,20)
+   {
+    z=609;
+    Outlier(0.05);
+   };
+   Boundary('end')
+   {
+    z=620;
+   };
+  };
+ };
+```

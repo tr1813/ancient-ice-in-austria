@@ -1,0 +1,13 @@
+dataset,filepath
+rate_hochschneid,data/age_models/Hochschneid/Hochschneid.csv
+rate_guffert_t,data/age_models/Guffert/guffert_t.csv
+rate_guffert_b,data/age_models/Guffert/guffert_b.csv
+rate_eisgruben_top,data/age_models/Eisgruben/SLS_right.csv
+rate_eisgruben_top2,data/age_models/Eisgruben/SLS_left.csv
+rate_tremml,data/age_models/Tremml/Tremml.csv
+rate_kraterschacht,data/age_models/Kraterschacht/Kraterschacht.csv
+rate_grosser_naturschacht,data/age_models/GrosserNaturschacht/Naturschacht_high.csv
+rate_baerenloch_b,data/age_models/Baerenloch/Baerenloch_b.csv
+rate_baerenloch_m,data/age_models/Baerenloch/Baerenloch_m.csv
+rate_baerenloch_t,data/age_models/Baerenloch/Baerenloch_t.csv
+rate_hundalm,data/age_models/Hundalm/Hundalm.csv

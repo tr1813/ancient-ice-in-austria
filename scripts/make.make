@@ -52,7 +52,8 @@ kraterschacht: ../descriptions/kraterschacht.md
 
 
 hundalm: ../descriptions/hundalm.md
-	pandoc --toc --citeproc --top-level-division=section ../descriptions/hundalm.md -o ../descriptions/hundalm.html \
+	m4 -I ../descriptions/age_models/Hundalm/ ../descriptions/hundalm.md > ../descriptions/_tmp.md
+	pandoc --toc --citeproc --top-level-division=section ../descriptions/_tmp.md -o ../descriptions/hundalm.html \
 	--bibliography ../bibliography/tanguy_bib.bib \
 	--csl=https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl \
 	 -s --metadata title="Hundalm Tropfstein- und Eishöhle"

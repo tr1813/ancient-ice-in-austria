@@ -1,0 +1,14 @@
+model_name,source_file
+eisgruben_top,data/age_models/Eisgruben/shared_boundaries.js
+eisgruben_bottom,data/age_models/Eisgruben/Eisgruben_b_outliers.js
+guffert_t,data/age_models/Guffert/Guffert_t.js
+guffert_b,data/age_models/Guffert/Guffert_b.js
+hochschneid,data/age_models/Hochschneid/Iglu_sequence.js
+baerenloch_t,data/age_models/Baerenloch/Baerenloch_t.js
+baerenloch_b,data/age_models/Baerenloch/Baerenloch_b.js
+baerenloch_m,data/age_models/Baerenloch/Baerenloch_m.js
+grosser_naturschacht,data/age_models/GrosserNaturschacht/grosser_naturschacht_sequence.js
+kraterschacht,data/age_models/Kraterschacht/Kraterschacht.js
+tremml,data/age_models/Tremml/Tremml.js
+beilstein,data/age_models/Beilstein/Beilstein_2_sequences.js
+hundalm,data/age_models/Hundalm/Hundalm.js

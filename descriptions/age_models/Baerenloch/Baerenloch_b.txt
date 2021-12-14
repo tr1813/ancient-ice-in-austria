@@ -1,0 +1,107 @@
+
+T(5)	-1.14	1.14	-2.65	2.65	
+U(0,4)	3.98986e-17	4	3.98986e-17	4	
+General	
+start	
+BL-C1	-150	-43.5	-195	15	
+BL-C2	-94	8.5	-150	24	
+BL-C3	-44	13	-91.5	62	
+I	
+BL-C4	645.5	666	605.5	758	
+BL-C6	641.5	661.5	605.5	668	
+BL-C7	643.5	661.5	606	669	
+BL-C8	664	772	657	775	
+end	
+U(-2,2)	-2	2	-2	2	
+Baerenloch_b	-2	2	-2	2	
+BL-C5	777	888	772	945.5	
+	
+	
+	
+	
+@General	-20	24.5	-292	114.5	
+@	
+@	5.37764e-17	2.544	5.37764e-17	3.956	
+@Baerenloch_b	-1.41794	-1.18194	-1.41794	-0.89394	
+@start	-298.5	-72	-641	-30	
+@BL-C1	-154.5	-64.5	-197.5	-31.5	
+@BL-C2	-87.5	2.5	-104.5	15.5	
+@BL-C3	-35.5	24.5	-50	70	
+@I	621.5	655.5	539.5	663	
+@BL-C4	643	656.5	609.5	662.5	
+@BL-C6	647.5	659	641.5	664.5	
+@BL-C7	651.5	662	646	667.5	
+@BL-C8	658	680.5	651	760	
+@end	658.5	685	651	775.5	
+@BL-C5	777.5	887.5	772.5	944.5	
+@depthModel	-255	-65	-544	-23.5	
+@depthModel	-210.5	-59.5	-452.5	-22	
+@depthModel	-174.5	-59.5	-349.5	-7.5	
+@depthModel	-140	-51	-190	-19.5	
+@depthModel	-127.5	-44	-173	-4	
+@depthModel	-119.5	-39	-165	-2	
+@depthModel	-113.5	-33.5	-155.5	1	
+@depthModel	-105	-29	-148	4.5	
+@depthModel	-97.5	-8.5	-136	8	
+@depthModel	-91.5	-2	-120.5	12	
+@depthModel	-80	5	-102	24	
+@depthModel	-55	9	-99.5	36	
+@depthModel	-52	10	-94	46	
+@depthModel	-49	13	-88.5	53	
+@depthModel	-45	15	-82.5	58	
+@depthModel	-41.5	18.5	-76.5	63.5	
+@depthModel	-36.5	21	-64.5	70.5	
+@depthModel	-40	95.5	-50	385.5	
+@depthModel	-32.5	225	-43.5	508.5	
+@depthModel	-8	350.5	-26	577	
+@depthModel	59	534	10	630	
+@depthModel	303.5	645.5	57.5	650	
+@depthModel	417.5	653.5	124	657.5	
+@depthModel	538.5	656	241	660.5	
+@depthModel	623.5	655.5	544.5	663	
+@depthModel	625.5	655.5	549.5	663.5	
+@depthModel	626	656	554.5	663.5	
+@depthModel	627.5	656	559.5	663.5	
+@depthModel	630	655.5	564.5	663.5	
+@depthModel	630.5	656	569	663.5	
+@depthModel	631.5	656	574.5	663	
+@depthModel	633	656	579.5	663	
+@depthModel	635.5	655.5	584.5	663	
+@depthModel	636	656.5	589.5	663	
+@depthModel	636.5	656.5	594	663	
+@depthModel	638	656.5	599	663	
+@depthModel	640	656	603.5	662.5	
+@depthModel	641	656.5	607	662	
+@depthModel	641.5	657	608	662.5	
+@depthModel	643.5	656.5	613	663	
+@depthModel	644.5	657	618	663.5	
+@depthModel	645	657.5	623	664	
+@depthModel	645.5	658	626.5	664.5	
+@depthModel	646	658.5	630	664.5	
+@depthModel	647	658.5	634	665	
+@depthModel	647.5	658.5	638	664.5	
+@depthModel	648	659	641.5	665	
+@depthModel	648.5	659.5	641.5	665	
+@depthModel	649	659.5	642.5	665	
+@depthModel	649.5	660	643	665.5	
+@depthModel	650	660.5	644.5	665.5	
+@depthModel	650.5	661	645.5	666	
+@depthModel	651	661.5	646	667	
+@depthModel	652	663	646	670.5	
+@depthModel	652	664.5	646	674.5	
+@depthModel	652.5	665	646	678	
+@depthModel	653	666	646	682.5	
+@depthModel	653.5	667	646.5	686.5	
+@depthModel	654	668	646.5	690.5	
+@depthModel	654.5	669.5	647	695	
+@depthModel	655	670.5	647	700	
+@depthModel	655.5	672	647.5	705	
+@depthModel	655.5	674	648	710.5	
+@depthModel	655.5	675.5	649	728	
+@depthModel	656	677	650	743.5	
+@depthModel	656.5	678	650.5	751	
+@depthModel	657	679	650.5	755.5	
+@depthModel	657.5	679.5	651	758	
+@depthModel	658.5	681.5	651	767.5	
+@depthModel	658.5	683	651	769.5	
+@depthModel	658.5	684	651	773	
