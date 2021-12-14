@@ -12,7 +12,7 @@ index: ../descriptions/index.md
 	pandoc --toc --citeproc --top-level-division=section ../descriptions/index.md -o ../descriptions/index.html \
 	--bibliography ../bibliography/tanguy_bib.bib \
 	--csl=https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl \
-	-s -c ../scripts/BareCSS-v1/css/bare.min.css --metadata title="Home Page"
+	-s -c ../scripts/BareCSS-v1/css/bare.min.css
 
 baerenloch: ../descriptions/baerenloch.md
 	pandoc --toc --citeproc --top-level-division=section ../descriptions/baerenloch.md -o ../descriptions/baerenloch.html \

@@ -1,5 +1,10 @@
 [Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
 
+
+ 
+### Cave description
+
+
 Kraterschacht (cadastral code: 1651/24) is a nearly 250 m deep cave located in the Sengsengebirge of Upper Austria [@weissmair1995kraterschacht]. 
 Its entrance elevation is 1530 m a.s.l.
 The cave is predominantly vertical, its 100 m deep entrance pit leads to an elongated chamber hosting about 150,000 m$^3$

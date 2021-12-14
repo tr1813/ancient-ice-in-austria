@@ -23,6 +23,7 @@ body {
     padding: 1em;
   }
 }
+
 @media print {
   body {
     background-color: transparent;
@@ -45,9 +46,11 @@ a {
 a:visited {
   color: #1a1a1a;
 }
+
 img {
-  max-width: 100%;
+  max-width: 100px;
 }
+
 h1, h2, h3, h4, h5, h6 {
   margin-top: 1.7em;
 }
@@ -92,10 +95,21 @@ table {
   width: 100%;
   overflow-x: auto;
   display: block;
+  line-height: 1.;
+  font-family: Georgia, serif;
+  font-size: 10pt;
+  color: #1a1a1a;
+  background-color: #fdfdfd;
 }
 th, td {
   border-bottom: 1px solid lightgray;
   padding: 1em 3em 1em 0;
+}
+
+table tbody {
+  font-size: 10pt;
+  color: #1a1a1a;
+  background-color: #fdfdfd;
 }
 header {
   margin-bottom: 6em;
@@ -104,6 +118,7 @@ header {
 nav a:not(:hover) {
   text-decoration: none;
 }
+
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 span.underline{text-decoration: underline;}

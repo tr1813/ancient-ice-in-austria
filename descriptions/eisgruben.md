@@ -1,5 +1,8 @@
 [Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
 
+
+### Cave description
+
 Eisgruben Eishöhle (cadastral code: 1611/39, hereafter Eisgruben) is located in Upper Austria on the western slopes of this massif, about 700 m southwest of the summit of Hoher Sarstein (1975 m a.s.l).
 The cave is developed entirely within well bedded Dachstein reef limestones of upper Triassic age [@schaeffer1982badischl96].
 Eisgruben is an inclined cave with a single entrance containing a spectacular ice deposit, whose volume is estimated at $7 \times 10 ^3$.

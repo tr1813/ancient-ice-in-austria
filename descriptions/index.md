@@ -1,14 +1,23 @@
-Welcome to the _Ancient Ice in Caves_ project. 
+
+<h2>Welcome to the _Ancient Ice in Caves_ project!</h2>
 
 
 Here we present a detailed site description of each cave studied under 'Ice caves, a threatened climate archive' project. 
 
-
-![](https://tr1813.github.io/ancient-ice-in-austria/figures/alpes_sites_locations.png){width=430pt}
+<div class=images>
+![](https://tr1813.github.io/ancient-ice-in-austria/figures/alpes_sites_locations.png){alt="Location of the 
+cave sites under study" id="CaveSitesMap"}
+</div>
+<div id="myModal" class=modal>
+<img class ="modal-content" id="img01">
+<div id="caption"></div>
+</div>
 
 _Location of the cave sites under study_
 
 &shy;
+
+
 
 ## Site selection
 

@@ -1,5 +1,6 @@
 [Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
-
+ 
+### Cave description
 
 Tremml schacht  (cadastral code: 1744:413) is a cave located in the Hochschwab plateau in Styria.
 This vertical pit, developed in the lagoonal facies of the Wetterstein limestone [@plan2004spelaologische; @bryda2010eisenerz101] opens at an elevation of 1910 m a.s.l. with a first shaft of approx 100 m to the firn surface. 
