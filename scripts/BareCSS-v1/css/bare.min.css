@@ -16,13 +16,14 @@ html {
 
 body {
 	color: #2e3538;
-	margin: 0;
-	font-size: 1.4rem;
-	line-height: 1.8;
+	margin-left:4em;
+	margin-right:4em;
+	font-size: 1.6rem;
+	line-height: 2;
 	font-weight: 300
 }
 
-@media (max-width:50rem) {
+@media (max-width:40rem) {
 	body {
 		overflow-x: hidden
 	}
