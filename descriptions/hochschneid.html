@@ -44,15 +44,99 @@
 </header>
 <nav id="TOC" role="doc-toc">
 <ul>
+<li><a href="#oxcal-model-definition-of-hochschneid-sequence">OxCal model definition of Hochschneid sequence</a></li>
 <li><a href="#references">References</a></li>
 </ul>
 </nav>
 <p><a href="https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html">Back to Home Page</a></p>
 <p>Hochschneid Eishöhle (cadastral code: 1567/172, hereafter Hochschneid) is found a short distance off the <em>Kaiserweg</em>, a well-trodden alpine trail running along the southern fringe of the Höllengebirge, between Hochschneid summit (1752 m a.s.l.) and Helmeskogel (1636 m a.s.l.). This 163 m deep cave is developed in Wetterstein limestone of middle Triassic age <span class="citation" data-cites="egger1996gmunden66">(Egger, 1996)</span> and contains a large snow and ice deposit <span class="citation" data-cites="wielander2019hoellengebirge">(Wielander et al., 2019)</span>, whose volume is estimated at <span class="math inline">4 × 10<sup>3</sup></span> (cf. Table 1). Hochschneid possesses two entrances of markedly different opening diameter and elevation. In practice, it is entrance (a), <em>Nebelmonsterdoline</em>, with its 40 x 20 m size, which provides the main pathway for snow input into the cave (Figure 3a). Hochschneid hosts the largest ice volume out of all the sites under consideration. The lowermost part of the ice body (the <em>Iglu</em>) exhibits a clear layered stratigraphy, which was sampled for radiocarbon dating (Figure 3b).</p>
 <p>The <em>Iglu</em> outcrop is a <span class="math inline"> ≈ 10</span> m wide and <span class="math inline"> ≈ 4</span> m high ice cliff made up of steeply inclined, faint ice strata, separated by sub-parallel horizons rich in woody macro-remains. The ice is generally opaque and made up of isotropic crystals; the outcrop ice is generally strongly reflective and white in appearance (Figure 3b). The large scale layering in the outcrop is picked out by the macro-remain rich layers, whose thickness ranges between 10-70 cm. Faint layering in the macro-fossil poor sections ranges between sub-cm to multi-cm scale. Whilst the layering in the <em>Iglu</em> is near vertical, the examination of the entire ice pit (about 40 m in height), reveals that layer thickness increases upwards, while dip decreases markedly, reaching near horizontal values in the <em>Hüttenwirtehalle</em>. In the <em>Iglu</em> section, the younging direction is to the left, i.e., from North to South, which agrees with orientation of entrance <em>a</em>’s major axis.</p>
-<p>changequote(<code>{{',</code>}}’) include({{../descriptions/age_models/Hochschneid/Iglu_sequence_code.md}})</p>
+<h3 id="oxcal-model-definition-of-hochschneid-sequence">OxCal model definition of Hochschneid sequence</h3>
+<pre><code> Plot( )
+ {
+  Outlier_Model(&quot;General&quot;,T(5),U(0,4),&quot;t&quot;);
+  P_Sequence(&quot;Hochschneid&quot;,1,0.5,U(-2,2))
+  {
+   Boundary(&#39;start&#39;)
+   {
+    z=0;
+   };
+   R_Date(&quot;HE-C01&quot;,541,26)
+   {
+    z=25;
+    Outlier(0.05);
+   };
+   R_Combine(&quot;K/HE-C03&quot;)
+   {
+    R_Date(&quot;HE-C03&quot;,487,27);
+    R_Date(&quot;K&quot;,509,27);
+    z=102;
+    Outlier(0.05);
+   };
+   R_Date(&quot;HE-C04&quot;,426,40)
+   {
+    z=167;
+    Outlier(0.05);
+   };
+   R_Date(&quot;L&quot;,366,31)
+   {
+    z=287;
+    Outlier(0.05);
+   };
+   R_Date(&quot;M&quot;,387,28)
+   {
+    z=437;
+    Outlier(0.05);
+   };
+   R_Date(&quot;HE-C08&quot;,298,21)
+   {
+    z=472;
+    Outlier(0.05);
+   };
+   R_Date(&quot;HE-C10&quot;,364,19)
+   {
+    z=557;
+    Outlier(0.05);
+   };
+   R_Date(&quot;HE-C11&quot;,257,28)
+   {
+    z=597;
+    Outlier(0.05);
+   };
+   R_Date(&quot;HE-C12&quot;,215,21)
+   {
+    z=714;
+    Outlier(0.05);
+   };
+   R_Date(&quot;HE-C13&quot;,158,22)
+   {
+    z=820;
+    Outlier(0.05);
+   };
+   Boundary(&#39;end&#39;)
+   {
+    z=840;
+   };
+  };
+  R_Date(&quot;HE-C05&quot;,271,20)
+  {
+   z=287;
+  };
+  R_Date(&quot;HE-C06&quot;,460,19)
+  {
+   z=352;
+  };
+  R_Date(&quot;HE-C07&quot;,281,27)
+  {
+   z=437;
+  };
+  R_Date(&quot;HE-C09&quot;,265,25)
+  {
+   z=517;
+  };
+ };</code></pre>
+<h2 id="references">References</h2>
 <p><a href="https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html">Back to Home Page</a></p>
-<h2 class="unnumbered" id="references">References</h2>
 <div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
 <div id="ref-egger1996gmunden66" class="csl-entry" role="doc-biblioentry">
 Egger, H., 1996. Blatt 66 <span>Gmunden</span> 1:50.000, in: <span>G</span>eologische <span>K</span>arte Der <span>R</span>epublik <span class="nocase"><span>Ö</span>sterreich, 1:50.000</span>. Geologische Bundesanstalt (GBA), Wien.

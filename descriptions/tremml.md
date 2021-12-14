@@ -14,6 +14,8 @@ Near the base of the ice shaft, two layers richer in organic matter could be sam
 changequote(`{{', `}}')
 include({{../descriptions/age_models/Tremml/tremml_code.md}})
 
-[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
 
 ## References
+
+[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
+

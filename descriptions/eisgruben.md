@@ -22,7 +22,7 @@ Due to the moderate dip of the layers, a second diagonal transect could be made 
 changequote(`{{', `}}')
 include({{../descriptions/age_models/Eisgruben/shared_boundaries_code.md}})
 
+## References
 
 [Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
 
-## References

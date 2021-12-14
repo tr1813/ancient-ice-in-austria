@@ -13,6 +13,7 @@ A pilot sample extracted in 2009 yielded an 14c-age of 886±45 $^{14}$C yrs BP.
 Four more samples were taken during another reconnaissance mission in 2018. 
 The main ice wall extends over 50 m in height in the lower part of the cave, with faint, sub-horizontal regular layering in evidence at its base [@weissmair2011kraterschacht].
 
+## References
+
 [Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
 
-## References

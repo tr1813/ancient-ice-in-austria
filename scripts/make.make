@@ -20,29 +20,38 @@ baerenloch: ../descriptions/baerenloch.md
 	--csl=https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl \
 	-s -c ../scripts/BareCSS-v1/css/bare.min.css --metadata title="Bärenloch Eishöhle"
 
+
 eisgruben: ../descriptions/eisgruben.md
-	pandoc --toc --citeproc --top-level-division=section ../descriptions/eisgruben.md -o ../descriptions/eisgruben.html \
+	m4 -I ../descriptions/age_models/Eisgruben/ ../descriptions/eisgruben.md > ../descriptions/_tmp.md
+	pandoc --toc --citeproc --top-level-division=section ../descriptions/_tmp.md -o ../descriptions/eisgruben.html \
 	--bibliography ../bibliography/tanguy_bib.bib \
 	--csl=https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl \
 	-s -c ../scripts/BareCSS-v1/css/bare.min.css --metadata title="Eisgruben Eishöhle"
+	rm ../descriptions/_tmp.md
 
 hochschneid: ../descriptions/hochschneid.md
-	pandoc --toc --citeproc --top-level-division=section ../descriptions/hochschneid.md -o ../descriptions/hochschneid.html \
+	m4 -I ../descriptions/age_models/Hochschneid/ ../descriptions/hochschneid.md > ../descriptions/_tmp.md
+	pandoc --toc --citeproc --top-level-division=section ../descriptions/_tmp.md -o ../descriptions/hochschneid.html \
 	--bibliography ../bibliography/tanguy_bib.bib \
 	--csl=https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl \
 	-s -c ../scripts/BareCSS-v1/css/bare.min.css --metadata title="Hochschneid Eishöhle"
+	rm ../descriptions/_tmp.md
 
 guffert: ../descriptions/guffert.md
-	pandoc --toc --citeproc --top-level-division=section ../descriptions/guffert.md -o ../descriptions/guffert.html \
+	m4 -I ../descriptions/age_models/Guffert/ ../descriptions/guffert.md > ../descriptions/_tmp.md
+	pandoc --toc --citeproc --top-level-division=section ../descriptions/_tmp.md -o ../descriptions/guffert.html \
 	--bibliography ../bibliography/tanguy_bib.bib \
 	--csl=https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl \
 	-s -c ../scripts/BareCSS-v1/css/bare.min.css --metadata title="Guffert Eisschacht"
+	rm ../descriptions/_tmp.md
 
 grosser: ../descriptions/grosser-naturschacht.md
-	pandoc --toc --citeproc --top-level-division=section ../descriptions/grosser-naturschacht.md -o ../descriptions/grosser-naturschacht.html \
+	m4 -I ../descriptions/age_models/GrosserNaturschacht/ ../descriptions/grosser-naturschacht.md > ../descriptions/_tmp.md
+	pandoc --toc --citeproc --top-level-division=section ../descriptions/_tmp.md -o ../descriptions/grosser-naturschacht.html \
 	--bibliography ../bibliography/tanguy_bib.bib \
 	--csl=https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl \
 	 -s -c ../scripts/BareCSS-v1/css/bare.min.css --metadata title="Großer Naturschacht"
+	 rm ../descriptions/_tmp.md
 
 kraterschacht: ../descriptions/kraterschacht.md
 	pandoc --toc --citeproc --top-level-division=section ../descriptions/kraterschacht.md -o ../descriptions/kraterschacht.html \
@@ -57,9 +66,12 @@ hundalm: ../descriptions/hundalm.md
 	--bibliography ../bibliography/tanguy_bib.bib \
 	--csl=https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl \
 	-s -c ../scripts/BareCSS-v1/css/bare.min.css --metadata title="Hundalm Tropfstein- und Eishöhle"
+	rm ../descriptions/_tmp.md
 
 tremml: ../descriptions/tremml.md
-	pandoc --toc --citeproc --top-level-division=section ../descriptions/tremml.md -o ../descriptions/tremml.html \
+	m4 -I ../descriptions/age_models/Tremml/ ../descriptions/tremml.md > ../descriptions/_tmp.md
+	pandoc --toc --citeproc --top-level-division=section ../descriptions/_tmp.md -o ../descriptions/tremml.html \
 	--bibliography ../bibliography/tanguy_bib.bib \
 	--csl=https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl \
 	-s -c ../scripts/BareCSS-v1/css/bare.min.css --metadata title="Tremmlschacht"
+	rm ../descriptions/_tmp.md

@@ -44,6 +44,7 @@
 </header>
 <nav id="TOC" role="doc-toc">
 <ul>
+<li><a href="#oxcal-model-definition-of-eisgruben-sequence">OxCal model definition of Eisgruben sequence</a></li>
 <li><a href="#references">References</a></li>
 </ul>
 </nav>
@@ -51,9 +52,139 @@
 <p>Eisgruben Eishöhle (cadastral code: 1611/39, hereafter Eisgruben) is located in Upper Austria on the western slopes of this massif, about 700 m southwest of the summit of Hoher Sarstein (1975 m a.s.l). The cave is developed entirely within well bedded Dachstein reef limestones of upper Triassic age <span class="citation" data-cites="schaeffer1982badischl96">(Schäffer, 1982)</span>. Eisgruben is an inclined cave with a single entrance containing a spectacular ice deposit, whose volume is estimated at <span class="math inline">7 × 10<sup>3</sup></span>. The prominent ice layering encountered at <em>Steinlawinenschacht</em> and further down in <em>Eiszungendom</em> warranted detailed radiocarbon sampling (Figure 2).</p>
 <p>The orginal detailed survey of the cave carried out in 1982, as well as photographic evidence from that time attest to the presence of sizeable firn deposit within <em>Weißdom</em>. It was necessary to abseil 10 m between the bedrock wall and firn to reach the <em>Sesam</em> and the cave beyond. Survey marks painted onto the cave wall in the 80’s lay in 2021 some 10 m above a debris talus free of firn.</p>
 <p>The <em>Steinlawinenschacht</em> ice cliff of Eisgruben (Figure 7a) is a 22 m high, overhanging outcrop, where regular, decimetre-scale ice layering is exposed by the retreat of the ice wall. The ice pit bells out in its lower part, which is characterised by prominent laterally continuous, macro-remain rich layers, dipping at a gentle 20-25° to the NE. Wood-rich layers become scarcer moving up the stratigraphic column and disappear entirely after about 4 m height, giving way the clean, regularly spaced layers of the ice pit. The ice in <em>Steinlawinenschacht</em> has a mixed origin, with few but prominent white/opaque layers of clear firn origin intercalated with blueish, transparent layers, especially near the top of the ice pit. Firn-derived layers are more common in the vicinity of the wood-rich horizons, where their thickness varies between 10-50 cm. Three of the prominent wood rich layers occur at major angular unconformities in the ice stratigraphy (Figure 7b). By rappelling down the <em>Steinlawinenschacht</em>, one sequence could be sampled to the right hand-side (SW) of the outcrop. Due to the moderate dip of the layers, a second diagonal transect could be made on the left hand-side (NE) of the outcrop.</p>
-<p>changequote(<code>{{',</code>}}’) include({{../descriptions/age_models/Eisgruben/shared_boundaries_code.md}})</p>
+<h3 id="oxcal-model-definition-of-eisgruben-sequence">OxCal model definition of Eisgruben sequence</h3>
+<pre><code> Plot()
+ {
+  Outlier_Model(&quot;General&quot;,T(5),U(0,4),&quot;t&quot;);
+  P_Sequence(&quot;SLS-left&quot;,1,0.1,U(-2,2))
+  {
+   Boundary(&quot;bottom&quot;)
+   {
+    z=0;
+   };
+   R_Date(&quot;EE-C5&quot;,2148,27)
+   {
+    z=10;
+    Outlier(0.05);
+   };
+   R_Date(&quot;EE-C7&quot;,1646,28)
+   {
+    z=195;
+    Outlier(0.05);
+   };
+   Boundary(&quot;I&quot;)
+   {
+    z=290;
+   };
+   R_Date(&quot;EE-C17&quot;,1492,30)
+   {
+    z=305;
+    Outlier(0.05);
+   };
+   Boundary(&quot;II&quot;)
+   {
+    z=475;
+   };
+   R_Date(&quot;EE-C19&quot;,1203,22)
+   {
+    z=578;
+    Outlier(0.05);
+   };
+   R_Date(&quot;EE-C20&quot;,1028,24)
+   {
+    z=690;
+    Outlier(0.05);
+   };
+   Boundary(&quot;III&quot;)
+   {
+    z=750;
+   };
+  };
+  P_Sequence(&quot;SLS-right&quot;,1,0.1,U(-2,2))
+  {
+   Boundary(&quot;=bottom&quot;)
+   {
+    z=0;
+   };
+   R_Date(&quot;EG-3&quot;,2019,23)
+   {
+    z=10;
+    Outlier(0.05);
+   };
+   R_Date(&quot;EG-4&quot;,1894,24)
+   {
+    z=170;
+    Outlier(0.05);
+   };
+   Boundary(&quot;=I&quot;)
+   {
+    z=510;
+   };
+   Boundary(&quot;=II&quot;)
+   {
+    z=550;
+   };
+   R_Date(&quot;EE-C8&quot;,1196,26)
+   {
+    z=690;
+    Outlier(0.05);
+   };
+   R_Date(&quot;EE-C9&quot;,1025,30)
+   {
+    z=743;
+    Outlier(0.05);
+   };
+   Boundary(&quot;=III&quot;)
+   {
+    z=750;
+   };
+   R_Date(&quot;EE-C11&quot;,776,21)
+   {
+    z=873;
+    Outlier(0.05);
+   };
+   R_Combine(&quot;EE-C13/EE-C12&quot;)
+   {
+    R_Date(&quot;EE-C13&quot;,650,23);
+    R_Date(&quot;EE-C12&quot;,704,24);
+    z=931;
+    Outlier(0.05);
+   };
+   R_Date(&quot;EE-C14&quot;,592,27)
+   {
+    z=1229;
+    Outlier(0.05);
+   };
+   R_Date(&quot;EE-C15&quot;,324,23)
+   {
+    z=1506;
+    Outlier(0.05);
+   };
+   R_Date(&quot;EE-C16&quot;,339,21)
+   {
+    z=1646;
+    Outlier(0.05);
+   };
+   Boundary(&quot;top&quot;)
+   {
+    z = 1650;
+   };
+  };
+  R_Date(&quot;EE-C10&quot;,1124,26)
+  {
+   z=743;
+  };
+  R_Date(&quot;EE-C18&quot;,1127,27)
+  {
+   z=505;
+  };
+  R_Date(&quot;EE-C6&quot;,2067,25)
+  {
+   z=140;
+  };
+ };</code></pre>
+<h2 id="references">References</h2>
 <p><a href="https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html">Back to Home Page</a></p>
-<h2 class="unnumbered" id="references">References</h2>
 <div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
 <div id="ref-schaeffer1982badischl96" class="csl-entry" role="doc-biblioentry">
 Schäffer, G., 1982. Blatt 96 <span>Bad Ischl</span> 1:50.000, in: <span>G</span>eologische <span>K</span>arte Der <span>R</span>epublik <span class="nocase"><span>Ö</span>sterreich, 1:50.000</span>. Geologische Bundesanstalt (GBA), Wien.

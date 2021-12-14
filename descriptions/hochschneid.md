@@ -18,6 +18,7 @@ In the _Iglu_ section, the younging direction is to the left, i.e., from North t
 changequote(`{{', `}}')
 include({{../descriptions/age_models/Hochschneid/Iglu_sequence_code.md}})
 
+## References
+
 [Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
 
-## References
