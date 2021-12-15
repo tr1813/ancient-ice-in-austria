@@ -82,4 +82,6 @@ _Summary of the number of samples taken at each site._
 |[Tremml-schacht](https://tr1813.github.io/ancient-ice-in-austria/descriptions/tremml.html)||2 |2|
 |[Hundalm Tropfstein-und Eishöhle](https://tr1813.github.io/ancient-ice-in-austria/descriptions/hundalm.html)|*northern sector*|9 (1)|7|
 
+[Back to the map](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
+
 ## References
