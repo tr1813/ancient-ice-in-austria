@@ -35,7 +35,7 @@ changequote(`{{', `}}')
 
 include({{../descriptions/age_models/Guffert/Guffert_b_code.md}})
 <div class= "sketches">
-![](https://tr1813.github.io/ancient-ice-in-austria/figures/guffert_l_age_model_final.png){width=430pt}
+![](https://tr1813.github.io/ancient-ice-in-austria/figures/guffert_l_age_model_final.jpg){width=430pt}
  </div>
 
 _Stratigraphy of the ice at Guffert_
@@ -43,7 +43,7 @@ _Stratigraphy of the ice at Guffert_
 include({{../descriptions/age_models/Guffert/Guffert_t_code.md}})
 
 <div class= "sketches">
-![](https://tr1813.github.io/ancient-ice-in-austria/figures/guffert_t_age_model_final.png){width=430pt}
+![](https://tr1813.github.io/ancient-ice-in-austria/figures/guffert_t_age_model_final.jpg){width=430pt}
  </div>
 _Stratigraphy of the ice at Guffert_
 
