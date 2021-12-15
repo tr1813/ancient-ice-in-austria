@@ -5,8 +5,17 @@ html {
   color: #1a1a1a;
   background-color: #fdfdfd;
 }
+
+.content {
+
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
 body {
-  margin: 0 auto;
+
   max-width: 40em;
   padding-left: 50px;
   padding-right: 50px;
@@ -15,6 +24,7 @@ body {
   hyphens: auto;
   word-wrap: break-word;
   text-rendering: optimizeLegibility;
+  text-align:center;
   font-kerning: normal;
 }
 
