@@ -34,6 +34,7 @@ body {
 @media (max-width:40rem) {
 	body {
 		overflow-x: hidden
+		font-size: 1.45rem;
 	}
 
 }
