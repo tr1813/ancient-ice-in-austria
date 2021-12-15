@@ -15,6 +15,8 @@ Dense, laterally continuous, sub-parallel layers ranging from sub-centimetre to 
 The ice is transparent and likely heavily recrystallised.
 This short, condensed sequence covers a stratigraphic height of $\approx 1$ m, where 7 samples were radiocarbon dated.
 
+
+
 Moving up through the cave, the base and middle-part of the _Eisschacht_ make a $\approx 14$ m tall _top_ sequence.
 The _Eisschacht_ is a roughly cylindrical, vertical pit whose circumference is almost entirely made of ice. 
 Only the eastern wall of this pit is limestone bedrock.
@@ -31,7 +33,17 @@ changequote(`{{', `}}')
 
 include({{../descriptions/age_models/Guffert/Guffert_b_code.md}})
 
+![Age model Guffert low](https://tr1813.github.io/ancient-ice-in-austria/figures/guffert_l_age_model_final.png)
+
+_Stratigraphy of the ice at Guffert_
+
 include({{../descriptions/age_models/Guffert/Guffert_t_code.md}})
+
+
+![Age model Guffert top](https://tr1813.github.io/ancient-ice-in-austria/figures/guffert_t_age_model_final.png)
+
+_Stratigraphy of the ice at Guffert_
+
 
 ## References
 
