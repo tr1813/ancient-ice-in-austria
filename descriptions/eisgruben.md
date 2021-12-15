@@ -12,6 +12,12 @@ The orginal detailed survey of the cave carried out in 1982, as well as photogra
 It was necessary to abseil 10 m between the bedrock wall and firn to reach the *Sesam* and the cave beyond.
 Survey marks painted onto the cave wall in the 80's lay in 2021 some 10 m above a debris talus free of firn.
 
+<div class= "sketches">
+![](https://tr1813.github.io/ancient-ice-in-austria/figures/eisgruben_ice_cliff-tm.jpg){width=430pt}
+ </div>
+
+ _The Eisgruben ice cliff_
+
 
 The _Steinlawinenschacht_ ice cliff of Eisgruben (Figure 7a) is a 22 m high, overhanging outcrop, where regular, decimetre-scale ice layering is exposed by the retreat of the ice wall.
 The ice pit bells out in its lower part, which is characterised by prominent laterally continuous, macro-remain rich layers, dipping at a gentle 20-25° to the NE. 
