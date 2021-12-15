@@ -16,7 +16,13 @@ Survey marks painted onto the cave wall in the 80's lay in 2021 some 10 m above 
 ![](https://tr1813.github.io/ancient-ice-in-austria/figures/eisgruben_ice_cliff-tm.jpg){width=430pt}
  </div>
 
- _The Eisgruben ice cliff_
+ _The Eisgruben ice cliff (photo by C. Spötl)_
+
+ <div class= "sketches">
+![](https://tr1813.github.io/ancient-ice-in-austria/figures/eisgruben_age_model.jpg){width=430pt}
+ </div>
+
+ _The Eisgruben age model_
 
 
 The _Steinlawinenschacht_ ice cliff of Eisgruben (Figure 7a) is a 22 m high, overhanging outcrop, where regular, decimetre-scale ice layering is exposed by the retreat of the ice wall.
