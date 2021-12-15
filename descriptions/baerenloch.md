@@ -1,5 +1,6 @@
 [Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
 
+### Cave description 
 The main entrance of Bärenloch Eishöhle (cadastral code: 1742/54, hereafter Bärenloch), opens at an elevation of 1518 m a.s.l. at the southwestern end of the Bärenloch, with a commanding view over the Gsoll valley. 
 The cave is developed in the Grafensteig limestone of early Triassic age [@bryda2010eisenerz101], which locally dips gently to the north. 
 Bärenloch has four surveyed entrances; of those, entrance *b* has the largest opening, and it is proximal to the ice body (Figure 2).
@@ -26,7 +27,23 @@ This section is marked by a prominent transition between two ice zones.
 The bottom section of ice is made up of organic rich layers on average 1-2 cm thick. 
 Above the irregular transition, ice is organised in thick decimetre sized layers with far fewer organic inclusions.
 
-## References
+
+<div class= "sketches">
+![](https://tr1813.github.io/ancient-ice-in-austria/figures/baerenloch_b_age_model.png){width=430pt}
+ </div>
+
+ _Bottom age model at Bärenloch Eishöhle_
+
+
+ <div class= "sketches">
+![](https://tr1813.github.io/ancient-ice-in-austria/figures/baerenloch_t_age_model.png){width=430pt}
+ </div>
+
+  _Top age model at Bärenloch Eishöhle_
+
+
+
+### References
 
 [Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
 

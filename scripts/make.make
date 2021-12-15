@@ -15,8 +15,8 @@ pages:
 		echo "updated html page for cave " $$cave; \
 	done
 
-index: ../descriptions/index.md
-	pandoc --toc --citeproc --top-level-division=section ../descriptions/index.md -o ../descriptions/index.html \
+site_selection: ../descriptions/site_selection.md
+	pandoc --toc --citeproc --top-level-division=section ../descriptions/site_selection.md -o ../descriptions/site_selection.html \
 	--bibliography ../bibliography/tanguy_bib.bib \
 	--csl=https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl \
 	-s -c ../scripts/BareCSS-v1/css/bare.min.css

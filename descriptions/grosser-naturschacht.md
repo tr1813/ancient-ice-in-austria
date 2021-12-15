@@ -23,8 +23,10 @@ There, wood fragments are rare, and laterally continuous wood-rich layers are en
 changequote(`{{', `}}')
 include({{../descriptions/age_models/grosser-naturschacht/grosser-naturschacht_sequence_code.md}})
 
+ _Age model at Großer Naturschacht_
 
-## References
+
+### References
 
 
 [Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)

@@ -13,13 +13,6 @@ It was necessary to abseil 10 m between the bedrock wall and firn to reach the *
 Survey marks painted onto the cave wall in the 80's lay in 2021 some 10 m above a debris talus free of firn.
 
 
- <div class= "sketches">
-![](https://tr1813.github.io/ancient-ice-in-austria/figures/eisgruben_age_model.jpg){width=430pt}
- </div>
-
- _The Eisgruben age model_
-
-
 The _Steinlawinenschacht_ ice cliff of Eisgruben (Figure 7a) is a 22 m high, overhanging outcrop, where regular, decimetre-scale ice layering is exposed by the retreat of the ice wall.
 The ice pit bells out in its lower part, which is characterised by prominent laterally continuous, macro-remain rich layers, dipping at a gentle 20-25° to the NE. 
 Wood-rich layers become scarcer moving up the stratigraphic column and disappear entirely after about 4 m height, giving way the clean, regularly spaced layers of the ice pit.
@@ -32,6 +25,12 @@ Due to the moderate dip of the layers, a second diagonal transect could be made 
 changequote(`{{', `}}')
 include({{../descriptions/age_models/Eisgruben/shared_boundaries_code.md}})
 
+ <div class= "sketches">
+![](https://tr1813.github.io/ancient-ice-in-austria/figures/eisgruben_age_model.jpg){width=430pt}
+ </div>
+
+ _The Eisgruben age model_
+
 &shy;
 
 ### Gallery
@@ -42,8 +41,6 @@ include({{../descriptions/age_models/Eisgruben/shared_boundaries_code.md}})
  </div>
 
  _The Eisgruben ice cliff (photo by C. Spötl)_
-
-&shy;
 
  <div class= "sketches">
 ![](https://tr1813.github.io/ancient-ice-in-austria/gallery/eisgruben_roman-tm.jpg){width=430pt}

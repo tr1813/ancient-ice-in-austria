@@ -47,7 +47,7 @@ include({{../descriptions/age_models/Guffert/Guffert_t_code.md}})
 _Age model at the bottom of the Eisschacht alcove Guffert Eisschacht_
 
 
-## References
+### References
 
 [Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
 
