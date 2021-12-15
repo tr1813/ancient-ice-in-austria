@@ -12,11 +12,6 @@ The orginal detailed survey of the cave carried out in 1982, as well as photogra
 It was necessary to abseil 10 m between the bedrock wall and firn to reach the *Sesam* and the cave beyond.
 Survey marks painted onto the cave wall in the 80's lay in 2021 some 10 m above a debris talus free of firn.
 
-<div class= "sketches">
-![](https://tr1813.github.io/ancient-ice-in-austria/figures/eisgruben_ice_cliff-tm.jpg){width=430pt}
- </div>
-
- _The Eisgruben ice cliff (photo by C. Spötl)_
 
  <div class= "sketches">
 ![](https://tr1813.github.io/ancient-ice-in-austria/figures/eisgruben_age_model.jpg){width=430pt}
@@ -37,7 +32,29 @@ Due to the moderate dip of the layers, a second diagonal transect could be made 
 changequote(`{{', `}}')
 include({{../descriptions/age_models/Eisgruben/shared_boundaries_code.md}})
 
-## References
+&shy;
+
+### Gallery
+
+
+<div class= "sketches">
+![](https://tr1813.github.io/ancient-ice-in-austria/gallery/eisgruben_ice_cliff-tm.jpg){width=430pt}
+ </div>
+
+ _The Eisgruben ice cliff (photo by C. Spötl)_
+
+&shy;
+
+ <div class= "sketches">
+![](https://tr1813.github.io/ancient-ice-in-austria/gallery/eisgruben_roman-tm.jpg){width=430pt}
+ </div>
+
+ _The Roman age sequence in Steinlawinenschacht (photo by C. Spötl)_
+
+ 
+&shy;
+
+### References
 
 [Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
 
