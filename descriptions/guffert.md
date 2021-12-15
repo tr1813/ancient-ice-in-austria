@@ -32,16 +32,17 @@ The geometry of the ice body in the upper part of the _Eisschacht_ is heavily in
 changequote(`{{', `}}')
 
 include({{../descriptions/age_models/Guffert/Guffert_b_code.md}})
-
-![Age model Guffert low](https://tr1813.github.io/ancient-ice-in-austria/figures/guffert_l_age_model_final.png)
+<div class= "sketches">
+![](https://tr1813.github.io/ancient-ice-in-austria/figures/guffert_l_age_model_final.png){width=430pt}
+ </div>
 
 _Stratigraphy of the ice at Guffert_
 
 include({{../descriptions/age_models/Guffert/Guffert_t_code.md}})
 
-
-![Age model Guffert top](https://tr1813.github.io/ancient-ice-in-austria/figures/guffert_t_age_model_final.png)
-
+<div class= "sketches">
+![](https://tr1813.github.io/ancient-ice-in-austria/figures/guffert_t_age_model_final.png){width=430pt}
+ </div>
 _Stratigraphy of the ice at Guffert_
 
 
