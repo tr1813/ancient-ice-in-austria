@@ -45,6 +45,7 @@
 <nav id="TOC" role="doc-toc">
 <ul>
 <li><a href="#cave-description">Cave description</a></li>
+<li><a href="#oxcal-model-definition-of-großer-naturschacht-sequence">OxCal model definition of Großer Naturschacht sequence</a></li>
 <li><a href="#references">References</a></li>
 </ul>
 </nav>
@@ -52,6 +53,76 @@
 <h3 id="cave-description">Cave description</h3>
 <p>Großer Naturschacht (cadastral code: 3741/8, hereafter Naturschacht) is located at the western edge of the Villacher Alpe, close to the Dobratsch summit (2166 m a.s.l.), in a shallow valley called Bärental. The single entrance of Naturschacht opens at an elevation of 1985 m a.s.l. <span class="citation" data-cites="jenatschke1968dobratsch">(Jenatscke, 1968)</span>. The cave is chiefly developed in Wetterstein limestone <span class="citation" data-cites="anderle1977arnoldstein200">(Anderle, 1977)</span>. Inclined ice layers with prominent woody macro-remains are well developed in this cave, starting from a depth of about 50 m at the <em>Rutschbahn</em>, and continuing to the bottom of the cave in the <em>Eisdom</em> (Figure 2). Those parts of Naturschacht were the main targets of radiocarbon samples. The <em>Rutschbahn</em> sequence of Naturschacht is presented below. The ice is exposed on the side of the cave passage leading to the deeper part of Naturschacht, on a distance of 15 m. There, the stratigraphy is chiefly comprised of firn-derived ice, opaque and isotropic. Organic-rich layers are few and far between, laterally discontinuous, so the ice deposit layers reach up to 1 m thickness and strata are generally inclined at a 40-50° angle towards the north. Along the few apparent wood rich layers, several conspicuous branches or large twigs partly encased in the ice body are in evidence. Between these layers, the macro-remain poor ice includes rare twigs or pine cone fragments, as well as lenses of recrystallised ice.</p>
 <p>In the <em>Weißer Dom</em> area, another section of ice stratigraphy can be observed. The ice of this section exhibits decimetre-scale layers, markedly darker than above, which has undergone a larger degree of recrystallisation. There, wood fragments are rare, and laterally continuous wood-rich layers are entirely absent.</p>
+<h3 id="oxcal-model-definition-of-großer-naturschacht-sequence">OxCal model definition of Großer Naturschacht sequence</h3>
+<pre><code> Plot()
+ {
+  Outlier_Model(&quot;General&quot;,T(5),U(0,4),&quot;t&quot;);
+  P_Sequence(&quot;Naturschacht-low&quot;,1,0.5,U(-2,2))
+  {
+   Boundary(&quot;s1&quot;)
+   {
+    z=0;
+   };
+   R_Date(&quot;GNS-C4&quot;, 239, 21)
+   {
+    z=145;
+    Outlier(0.05);
+   };
+   R_Date(&quot;GNS-C6&quot;, 155, 24)
+   {
+    z=155;
+    Outlier(0.05);
+   };
+   Boundary(&quot;e1&quot;)
+   {
+    z=170;
+   };
+  };
+  P_Sequence(&quot;Naturschacht-high&quot;,1,0.1,U(-2,2))
+  {
+   Boundary(&quot;s2&quot;)
+   {
+    z=1700;
+   };
+   R_Date(&quot;GNS-C8&quot;, 191, 20)
+   {
+    z=1710;
+    Outlier(0.05);
+   };
+   R_Date(&quot;K6&quot;, 107,24)
+   {
+    z=2000;
+    Outlier(0.05);
+   };
+   R_Date(&quot;GNS-C10&quot;, 166, 20)
+   {
+    z=2600;
+    Outlier(0.05);
+   };
+   R_Date(&quot;GNS-C11&quot;, 65, 23)
+   {
+    z=2650;
+    Outlier(0.05);
+   };
+   R_Date(&quot;GNS-C12&quot;, 83, 22)
+   {
+    z=2680;
+    Outlier(0.05);
+   };
+   Boundary(&quot;e2&quot;)
+   {
+    z=2700;
+   };
+  };
+  R_Date(&quot;GNS-C7&quot;, 155, 24)
+  {
+   z=1710;
+  };
+  R_Date(&quot;GNS-C9&quot;, 20, 19)
+  {
+   z=2400;
+  };
+ };</code></pre>
 <h2 id="references">References</h2>
 <p><a href="https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html">Back to Home Page</a></p>
 <div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">

@@ -21,7 +21,7 @@ The ice of this section exhibits decimetre-scale layers, markedly darker than ab
 There, wood fragments are rare, and laterally continuous wood-rich layers are entirely absent.
 
 changequote(`{{', `}}')
-include({{../descriptions/age_models/GrosserNaturschacht/grosser_naturschacht_sequence_code.md}})
+include({{../descriptions/age_models/grosser-naturschacht/grosser-naturschacht_sequence_code.md}})
 
 
 ## References
