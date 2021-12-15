@@ -17,10 +17,17 @@ body {
   text-rendering: optimizeLegibility;
   font-kerning: normal;
 }
+
 @media (max-width: 600px) {
   body {
     font-size: 0.9em;
     padding: 1em;
+  }
+  #mapid {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1em;
+    padding-right: 1em;
   }
 }
 
