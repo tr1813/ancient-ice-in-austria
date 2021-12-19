@@ -1,4 +1,4 @@
-[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
+[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/html/index.html)
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
@@ -17,7 +17,7 @@
 </style>
 
 </div>
-  <script src='../scripts/map_box.js'  type="text/javascript"></script>  
+  <script src='../javascript/map_box.js'  type="text/javascript"></script>  
 </div>
 
 
@@ -38,9 +38,9 @@ Whilst the layering in the _Iglu_ is near vertical, the examination of the entir
 In the _Iglu_ section, the younging direction is to the left, i.e., from North to South, which agrees with orientation of entrance _a_'s major axis.
 
 changequote(`{{', `}}')
-include({{../descriptions/age_models/Hochschneid/Iglu_sequence_code.md}})
+include({{./markdown/age_models/Hochschneid/Iglu_sequence_code.md}})
 
 ## References
 
-[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
+[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/html/index.html)
 

@@ -34,14 +34,14 @@ In some cases, the ice deposits and their woody content were striking enough, th
 
 In all, eight objects were selected: 
 
-1. [Guffert Eisschacht (Tyrol)](https://tr1813.github.io/ancient-ice-in-austria/descriptions/guffert.html)
-2. [Bärenloch Eishöhle (Styria)](https://tr1813.github.io/ancient-ice-in-austria/descriptions/baerenloch.html)
-3. [Eisgruben Eishöhle (Upper Austria)](https://tr1813.github.io/ancient-ice-in-austria/descriptions/eisgruben.html)
-4. [Hochschneid Eishöhle (Upper Austria)](https://tr1813.github.io/ancient-ice-in-austria/descriptions/hochschneid.html)
-5. [Großer Naturschacht (Carinthia)](https://tr1813.github.io/ancient-ice-in-austria/descriptions/grosser-naturschacht.html)
-6. [Hundalm Tropfstein-und Eishöhle (Tyrol)](https://tr1813.github.io/ancient-ice-in-austria/descriptions/hundalm.html)
-7. [Kraterschacht (Styria)](https://tr1813.github.io/ancient-ice-in-austria/descriptions/kraterschacht.html)
-8. [Tremml-schacht (Styria)](https://tr1813.github.io/ancient-ice-in-austria/descriptions/tremml.html)
+1. [Guffert Eisschacht (Tyrol)](https://tr1813.github.io/ancient-ice-in-austria/html/guffert.html)
+2. [Bärenloch Eishöhle (Styria)](https://tr1813.github.io/ancient-ice-in-austria/html/baerenloch.html)
+3. [Eisgruben Eishöhle (Upper Austria)](https://tr1813.github.io/ancient-ice-in-austria/html/eisgruben.html)
+4. [Hochschneid Eishöhle (Upper Austria)](https://tr1813.github.io/ancient-ice-in-austria/html/hochschneid.html)
+5. [Großer Naturschacht (Carinthia)](https://tr1813.github.io/ancient-ice-in-austria/html/grosser-naturschacht.html)
+6. [Hundalm Tropfstein-und Eishöhle (Tyrol)](https://tr1813.github.io/ancient-ice-in-austria/html/hundalm.html)
+7. [Kraterschacht (Styria)](https://tr1813.github.io/ancient-ice-in-austria/html/kraterschacht.html)
+8. [Tremml-schacht (Styria)](https://tr1813.github.io/ancient-ice-in-austria/html/tremml.html)
 
 The five caves are found between 1470 m and 2100 m a.s.l. and represent local permafrost phenomena located well below the altitude of their respective 0°C isotherm.
 Their steeply descending geometry the ice bearing part of the presented caves requires speleological rope technique.
@@ -67,19 +67,21 @@ _Summary of the number of samples taken at each site._
 
 |cave|section|number of samples $^{14}$C dated (modern) |number of samples used in sequence|
 |---:|---|---|---|
-|[Hochschneid Eishöhle](https://tr1813.github.io/ancient-ice-in-austria/descriptions/hochschneid.html)|*Iglu*|15 (0)|11|
-|[Großer Naturschacht](https://tr1813.github.io/ancient-ice-in-austria/descriptions/grosser-naturschacht.html)|*Rutschbahn*|9 (2)|5|
+|[Hochschneid Eishöhle](https://tr1813.github.io/ancient-ice-in-austria/html/hochschneid.html)|*Iglu*|15 (0)|11|
+|[Großer Naturschacht](https://tr1813.github.io/ancient-ice-in-austria/html/grosser-naturschacht.html)|*Rutschbahn*|9 (2)|5|
 ||*Eisdom*|6 (4)|2|
-|[Eisgruben Eishöhle](https://tr1813.github.io/ancient-ice-in-austria/descriptions/eisgruben.html)|*Steinlawinenschacht*|16|13|
+|[Eisgruben Eishöhle](https://tr1813.github.io/ancient-ice-in-austria/html/eisgruben.html)|*Steinlawinenschacht*|16|13|
 ||*Eiszungendom*|4|3|
-|[Guffert Eisschacht](https://tr1813.github.io/ancient-ice-in-austria/descriptions/guffert.html)|*top*|13 (0)|10|
+|[Guffert Eisschacht](https://tr1813.github.io/ancient-ice-in-austria/html/guffert.html)|*top*|13 (0)|10|
 ||*bottom*|7 (0)|7|
-|[Bärenloch Eishöhle](https://tr1813.github.io/ancient-ice-in-austria/descriptions/baerenloch.html)
+|[Bärenloch Eishöhle](https://tr1813.github.io/ancient-ice-in-austria/html/baerenloch.html)
 |*top*|8|4|
 ||*middle*|3|3|
 ||*bottom*|8|7|
-|[Kraterschacht](https://tr1813.github.io/ancient-ice-in-austria/descriptions/kraterschacht.html)||5 (1) |3|
-|[Tremml-schacht](https://tr1813.github.io/ancient-ice-in-austria/descriptions/tremml.html)||2 |2|
-|[Hundalm Tropfstein-und Eishöhle](https://tr1813.github.io/ancient-ice-in-austria/descriptions/hundalm.html)|*northern sector*|9 (1)|7|
+|[Kraterschacht](https://tr1813.github.io/ancient-ice-in-austria/html/kraterschacht.html)||5 (1) |3|
+|[Tremml-schacht](https://tr1813.github.io/ancient-ice-in-austria/html/tremml.html)||2 |2|
+|[Hundalm Tropfstein-und Eishöhle](https://tr1813.github.io/ancient-ice-in-austria/html/hundalm.html)|*northern sector*|9 (1)|7|
+
+[Back to the map](https://tr1813.github.io/ancient-ice-in-austria/html/index.html)
 
 ## References

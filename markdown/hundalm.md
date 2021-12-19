@@ -1,4 +1,4 @@
-[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
+[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/html/index.html)
 
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
@@ -18,7 +18,7 @@
 </style>
 
 </div>
-  <script src='../scripts/map_box.js'  type="text/javascript"></script>  
+  <script src='../javascript/map_box.js'  type="text/javascript"></script>  
 </div>
 
 ### Cave description
@@ -41,7 +41,7 @@ This 12 m wide section contrasts with the more southerly parts of the ice body b
 _Stratigraphic column at Hundalm_
 
 changequote(`{{', `}}')
-include({{../descriptions/age_models/Hundalm/hundalm_code.md}})
+include({{./markdown/age_models/Hundalm/hundalm_code.md}})
 
 ### Photo gallery
 
@@ -49,4 +49,4 @@ include({{../descriptions/age_models/Hundalm/hundalm_code.md}})
 
 ### References
 
-[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
+[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/html/index.html)

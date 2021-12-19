@@ -1,4 +1,4 @@
-[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
+[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/html/index.html)
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
@@ -17,7 +17,7 @@
 </style>
 
 </div>
-  <script src='../scripts/map_box.js'  type="text/javascript"></script>  
+  <script src='../javascript/map_box.js'  type="text/javascript"></script>  
 </div>
 
 ### Cave description
@@ -39,7 +39,7 @@ The ice of this section exhibits decimetre-scale layers, markedly darker than ab
 There, wood fragments are rare, and laterally continuous wood-rich layers are entirely absent.
 
 changequote(`{{', `}}')
-include({{../descriptions/age_models/grosser-naturschacht/grosser-naturschacht_sequence_code.md}})
+include({{./markdown/age_models/grosser-naturschacht/grosser-naturschacht_sequence_code.md}})
 
  _Age model at Großer Naturschacht_
 
@@ -47,5 +47,5 @@ include({{../descriptions/age_models/grosser-naturschacht/grosser-naturschacht_s
 ### References
 
 
-[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
+[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/html/index.html)
 

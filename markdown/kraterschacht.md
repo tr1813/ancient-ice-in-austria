@@ -1,4 +1,4 @@
-[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
+[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/html/index.html)
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
@@ -17,7 +17,7 @@
 </style>
 
 </div>
-  <script src='../scripts/map_box.js'  type="text/javascript"></script>  
+  <script src='../javascript/map_box.js'  type="text/javascript"></script>  
 </div>
  
 ### Cave description
@@ -38,5 +38,5 @@ The main ice wall extends over 50 m in height in the lower part of the cave, wit
 
 ## References
 
-[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
+[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/html/index.html)
 

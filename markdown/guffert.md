@@ -1,4 +1,4 @@
-[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
+[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/html/index.html)
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
@@ -17,7 +17,7 @@
 </style>
 
 </div>
-  <script src='../scripts/map_box.js'  type="text/javascript"></script>  
+  <script src='../javascript/map_box.js'  type="text/javascript"></script>  
 </div>
 
 ### Cave description
@@ -49,7 +49,7 @@ The geometry of the ice body in the upper part of the _Eisschacht_ is heavily in
 
 
 changequote(`{{', `}}')
-include({{../descriptions/age_models/guffert/guffert_b_code.md}})
+include({{./markdown/age_models/guffert/guffert_b_code.md}})
 
 
 <div class= "sketches">
@@ -58,7 +58,7 @@ include({{../descriptions/age_models/guffert/guffert_b_code.md}})
 
 _Age model in the Roman age alcove of Guffert Eisschacht_
 
-include({{../descriptions/age_models/guffert/guffert_t_code.md}})
+include({{./markdown/age_models/guffert/guffert_t_code.md}})
 
 <div class= "sketches">
 ![](https://tr1813.github.io/ancient-ice-in-austria/figures/guffert_t_age_model.jpg){width=430pt}
@@ -69,5 +69,5 @@ _Age model at the bottom of the Eisschacht alcove Guffert Eisschacht_
 
 ### References
 
-[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/descriptions/index.html)
+[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/html/index.html)
 
