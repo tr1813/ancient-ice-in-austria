@@ -1,23 +1,25 @@
 
-![](https://tr1813.github.io/ancient-ice-in-austria/gallery/ice_crystals_banner.jpeg)
-
-
-
 <!--- A profile pic and small blurb?--->
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
 
 
 <div class=media-text id=short-description>
 <figure>
-	<img loading=lazy src=https://tr1813.github.io/ancient-ice-in-austria/gallery/profile_picture.jpg>
+	<img loading=lazy src=https://tr1813.github.io/ancient-ice-in-austria/gallery/long_profile.jpg>
 </figure>
 <div class=text>
-### About me
-Hello there! I'm an Earth Scientist trained in geology and paleoclimate.  I explore, map and monitor ice caves in the European Alps.
-I'm also a c
-I'm currently invested in the exploration of several Austrian ice caves and their potential as paleoclimate archives.
-Exploring the potential of ice in caves as Middle to Late Holocene palaeoclimate archives
-Sampling cave hosted ice deposits to reconstruct winter precipitation records in alpine regions
-I have an active interest in developing cave mapping tools.
+	
+	Hello there! I'm an Earth Scientist trained in geology and paleoclimate. 
+	
+	I explore, map and monitor ice caves in the European Alps.
+	
+	In 
+
+	I currently work on the Ice in caves: a threatened climate archive project at the University of Innbruck. 
+
 </div>	
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 </div>
@@ -27,14 +29,18 @@ I have an active interest in developing cave mapping tools.
 
 ### Fieldwork in caves
 
+<button>
+[Read more](https://tr1813.github.io/ancient-ice-in-austria/html/fieldwork.html)
+</button>
 
 
 ### Ancient Ice
 
 ![](https://tr1813.github.io/ancient-ice-in-austria/gallery/ice-cave-concept.png){width=130px}
 
-[Ancient Ice in Austria](https://tr1813.github.io/ancient-ice-in-austria/html/index.html)
-
+<button>
+[Read more](https://tr1813.github.io/ancient-ice-in-austria/html/index.html)
+</button>
 
 ![](https://tr1813.github.io/ancient-ice-in-austria/gallery/victoria_inset.png)
 
@@ -44,11 +50,9 @@ The understanding of speleogenesis is based on the synthesis of information garn
 Each observation can be placed and interpreted in its spatial context and interrelation with other cave markers.
 I take an active part in the production of highly detailed 2D maps or 3D models from laser based measurements.
 
-My active projects include compiling large datasets of cave maps from 
-
- - Karwendel, north of Innsbruck
- - System Migovec, NW Slovenia
- - Höllengebirge
+<button>
+[Read more]()
+</button>
 
 ### Photo gallery
 

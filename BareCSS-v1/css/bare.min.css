@@ -572,15 +572,31 @@ ol:not([class]) ol, ol[xx] ol {
 
 nav:not([class]), nav[xx] {
 	background: #fff;
+	background-image: url("https://tr1813.github.io/ancient-ice-in-austria/gallery/ice_crystals_banner.jpeg");
+	background-position: center;
+    background-repeat: no-repeat;
+	font-weight: 300;
+    background-size: cover;
 	color: #2e3538;
 	padding: 0 2rem;
 	border-bottom: 1px solid #679;
 	z-index: 10;
-	min-height: 4.4rem
+	min-height: 4.4rem;
 }
 
+nav::before {
+    content: "";
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    background-color: rgba(255,255,255,0.45);
+}
+
+
 nav:not([class])[fx], nav[xx][fx] {
-	background: rgba(255, 255, 255, .95);
+	background: rgba(255, 255, 255, .5);
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -607,7 +623,7 @@ nav:not([class]) ul, nav[xx] ul {
 
 nav:not([class]) ul li, nav[xx] ul li {
 	display: inline-block;
-	font-size: 1.6rem
+	font-size: 1.6rem;
 }
 
 @media (min-width:50.1rem) {
@@ -624,11 +640,11 @@ nav:not([class]) ul li, nav[xx] ul li {
 nav:not([class]) ul a, nav[xx] ul a {
 	text-decoration: none;
 	text-transform: none;
-	padding: .8rem 2rem .4rem;
+	padding: .8rem 2rem .4rem .2rem;
 	border-bottom: 4px solid transparent;
 	display: block;
 	cursor: pointer;
-	font-weight: 300
+
 }
 
 @media (min-width:50.1rem) {
@@ -637,14 +653,15 @@ nav:not([class]) ul a, nav[xx] ul a {
 		background-repeat: no-repeat;
 		background-position: right 1.5rem;
 		background-size: 2rem;
-		padding-right: 3rem
+		padding-right: 3rem;
+		padding-bottom: 2px;
 	}
 
 }
 
 nav:not([class]) ul a:hover, nav[xx] ul a:hover {
-	color: #679;
-	border-color: #679
+	color: #fff;
+	border-color: #fff
 }
 
 nav:not([class]) menu, nav[xx] menu {
