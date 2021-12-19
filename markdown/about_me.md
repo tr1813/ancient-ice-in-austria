@@ -3,6 +3,9 @@
 
 
 
+<!--- A profile pic and small blurb?--->
+
+
 <div class=media-text id=short-description>
 <figure>
 	<img loading=lazy src=https://tr1813.github.io/ancient-ice-in-austria/gallery/profile_picture.jpg>
@@ -49,14 +52,10 @@ My active projects include compiling large datasets of cave maps from
 
 ### Photo gallery
 
-<!--- A profile pic and small blurb?--->
 !()[]
+
 
 ### Contact me
 
-[LinkedIn](https://linkedin.com/in/tanguy-racine-7545b490)
-[Email](tanguy.racine@student.uibk.ac.at)
+[LinkedIn]("https://linkedin.com/in/tanguy-racine-7545b490")       [Email]("tanguy.racine@student.uibk.ac.at")
 
-### References
-
-[Back to Home Page](https://tr1813.github.io/ancient-ice-in-austria/html/index.html)
