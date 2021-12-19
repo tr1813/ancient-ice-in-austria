@@ -19,3 +19,9 @@ site_selection: ./markdown/site_selection.md
 	--bibliography ./bibliography/tanguy_bib.bib \
 	--csl=https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl \
 	-s -c ../BareCSS-v1/css/bare.min.css
+
+about_me: ./markdown/about_me.md 
+	pandoc --toc --citeproc --top-level-division=section ./markdown/about_me.md -o ./html/about_me.html \
+	--bibliography ./bibliography/tanguy_bib.bib \
+	--csl=https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl \
+	-s -c ../BareCSS-v1/css/bare.min.css
