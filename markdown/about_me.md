@@ -5,7 +5,8 @@
 
 ### Fieldwork in caves
 
-![](https://tr1813.github.io/ancient-ice-in-austria/gallery/fieldwork.png)
+![](https://tr1813.github.io/ancient-ice-in-austria/gallery/fieldwork.jpg)
+
 
 
 ### Ancient Ice
