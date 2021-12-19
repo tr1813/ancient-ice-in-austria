@@ -18,7 +18,7 @@
 
 </div>
   <script src='../javascript/map_box.js'  type="text/javascript"></script>  
-</div>
+
 
 
 ### Cave description

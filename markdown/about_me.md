@@ -56,7 +56,7 @@ I take an active part in the production of highly detailed 2D maps or 3D models 
 
 ### Photo gallery
 
-!()[]
+
 
 
 ### Contact me
