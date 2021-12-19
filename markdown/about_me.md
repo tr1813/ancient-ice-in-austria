@@ -12,13 +12,16 @@
 </figure>
 <div class=text>
 	
-	Hello there! I'm an Earth Scientist trained in geology and paleoclimate. 
+	Hello there! I'm an Earth Scientist trained in geology, data science and paleoclimate. 
 	
 	I explore, map and monitor ice caves in the European Alps.
+	I'm interested to see how we can interpret past climate signals captured by the ice as it was deposited.
 	
-	In 
+	These objects are threatened by changes in temperature and precipitation patterns in the alpine environment.
+	There is a risk that those archives will disappear from the Alps before long. 
+	Before that happens, we need to better understand the forcings of cave ice accumulation and the response of caves to a changing, warming climate.  
 
-	I currently work on the Ice in caves: a threatened climate archive project at the University of Innbruck. 
+	My current job at the University of Innbruck involves the evaluation of the suitability of several cave sites for targeted research and preservation procedures.
 
 </div>	
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
