@@ -1,11 +1,28 @@
 
 ![](https://tr1813.github.io/ancient-ice-in-austria/gallery/ice_crystals_banner.jpeg)
 
-### About me
 
-### Fieldwork in caves
+
+<div class=media-text id=short-description>
+<figure>
+	<img loading=lazy src=https://tr1813.github.io/ancient-ice-in-austria/gallery/profile_picture.jpg>
+</figure>
+<div class=text>
+### About me
+Hello there! I'm an Earth Scientist trained in geology and paleoclimate.  I explore, map and monitor ice caves in the European Alps.
+I'm also a c
+I'm currently invested in the exploration of several Austrian ice caves and their potential as paleoclimate archives.
+Exploring the potential of ice in caves as Middle to Late Holocene palaeoclimate archives
+Sampling cave hosted ice deposits to reconstruct winter precipitation records in alpine regions
+I have an active interest in developing cave mapping tools.
+</div>	
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+</div>
+
 
 ![](https://tr1813.github.io/ancient-ice-in-austria/gallery/fieldwork.jpg)
+
+### Fieldwork in caves
 
 
 
@@ -37,7 +54,7 @@ My active projects include compiling large datasets of cave maps from
 
 ### Contact me
 
-[LinkedIn](linkedin.com/in/tanguy-racine-7545b490)
+[LinkedIn](https://linkedin.com/in/tanguy-racine-7545b490)
 [Email](tanguy.racine@student.uibk.ac.at)
 
 ### References
