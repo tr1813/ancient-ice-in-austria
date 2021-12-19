@@ -251,17 +251,17 @@ pre:not([class]) code, pre[xx] code {
 }
 
 footer {
-	color: #fff;
+	color: #262f4a;
 	width: 100%;
-	max-width: 90rem;
+	max-width:650px;
 	margin: auto;
 	padding: 2rem;
-	overflow: visible
+	overflow: hidden
 }
 
 footer:before {
 	content: "";
-	background: #679;
+	background: #ddd;
 	width: 102vw;
 	height: 100%;
 	position: absolute;
