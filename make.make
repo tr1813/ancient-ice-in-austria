@@ -18,4 +18,4 @@ site_selection: ./markdown/site_selection.md
 	pandoc --toc --citeproc --top-level-division=section ./markdown/site_selection.md -o ./html/site_selection.html \
 	--bibliography ./bibliography/tanguy_bib.bib \
 	--csl=https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl \
-	-s -c ./BareCSS-v1/css/bare.min.css
+	-s -c ../BareCSS-v1/css/bare.min.css
