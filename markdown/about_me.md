@@ -1,5 +1,5 @@
 
-![](https://tr1813.github.io/ancient-ice-in-austria/gallery/ice_crystals_banner.jpg)
+![](https://tr1813.github.io/ancient-ice-in-austria/gallery/ice_crystals_banner.jpeg)
 
 ### About me
 
