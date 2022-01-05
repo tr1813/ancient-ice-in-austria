@@ -5,7 +5,6 @@
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
-
 <div class=media-text id=short-description>
 <figure>
 	<img loading=lazy src=https://tr1813.github.io/ancient-ice-in-austria/gallery/long_profile.jpg>
@@ -21,6 +20,10 @@
 	My current job at the University of Innbruck involves the evaluation of the suitability of several cave sites for targeted research and preservation procedures.
 
 </div>	
+
+<button>
+[Academic CV](https://drive.google.com/file/d/1MODuvgM17Se05vJR3hUMjZYznQe4oom1/view?usp=sharing)
+</button>
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 </div>
 
